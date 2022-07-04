@@ -26,4 +26,15 @@ entries:
     urls:
     - helm-chart-sources/olipy-1.2.0.tgz
     version: 1.2.0
-generated: "2022-07-04T08:20:18.808687019Z"
+  scanner:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-07-04T14:12:38.805662995Z"
+    description: Oligo Scanner's official Helm chart for Kubernetes
+    digest: e3e1076d042c0d7c989afa519d83a4080faac7142c8ec5bda5eec6a799271f85
+    name: scanner
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/scanner-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-07-04T14:12:38.804895686Z"
