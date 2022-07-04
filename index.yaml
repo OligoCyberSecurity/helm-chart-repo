@@ -3,7 +3,7 @@ entries:
   oligo-java-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-03T12:44:55.155747035Z"
+    created: "2022-07-04T08:20:18.813332122Z"
     description: A Helm chart for installing Oligo Java agent on Kubernetes
     digest: a48966a50fa630c0dcca0a0310171dbbf1e03836dd8e40c4fbe49e0cdc39e1fb
     name: oligo-java-agent
@@ -11,4 +11,19 @@ entries:
     urls:
     - helm-chart-sources/oligo-java-agent-1.0.0.tgz
     version: 1.0.0
-generated: "2022-07-03T12:44:55.154287165Z"
+  olipy:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2022-07-04T08:20:18.814674243Z"
+    dependencies:
+    - name: scanner
+      repository: charts/scanner
+      version: 1.0.0
+    description: Oligo's official Helm chart for Kubernetes
+    digest: abaa5210583297d94d1c992771416586cbdf2afab08e814700870a7ee715f968
+    name: olipy
+    type: application
+    urls:
+    - helm-chart-sources/olipy-1.2.0.tgz
+    version: 1.2.0
+generated: "2022-07-04T08:20:18.808687019Z"
