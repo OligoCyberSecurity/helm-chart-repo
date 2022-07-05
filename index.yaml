@@ -13,6 +13,20 @@ entries:
     version: 1.0.0
   olipy:
   - apiVersion: v2
+    appVersion: 1.2.1
+    created: "2022-07-05T15:12:57.88469042Z"
+    dependencies:
+    - name: scanner
+      repository: https://oligocybersecurity.github.io/helm-chart-repo
+      version: 1.2.0
+    description: Oligo's official Helm chart for Kubernetes
+    digest: 1eeea452ab7edb8f85363c69c25f502c2fe0d897f4a48373b4253d57cb8035f3
+    name: olipy
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/olipy-1.2.1.tgz
+    version: 1.2.1
+  - apiVersion: v2
     appVersion: 1.2.0
     created: "2022-07-05T12:29:10.590330423Z"
     dependencies:
@@ -37,4 +51,4 @@ entries:
     urls:
     - helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2022-07-05T12:29:10.587298003Z"
+generated: "2022-07-05T15:12:57.882091713Z"
