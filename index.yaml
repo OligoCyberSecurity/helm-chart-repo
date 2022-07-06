@@ -3,7 +3,7 @@ entries:
   oligo-java-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-06T11:24:46.419366804Z"
+    created: "2022-07-06T11:58:16.862280918Z"
     description: A Helm chart for installing Oligo Java agent on Kubernetes
     digest: a48966a50fa630c0dcca0a0310171dbbf1e03836dd8e40c4fbe49e0cdc39e1fb
     name: oligo-java-agent
@@ -11,24 +11,10 @@ entries:
     urls:
     - helm-chart-sources/oligo-java-agent-1.0.0.tgz
     version: 1.0.0
-  - apiVersion: v2
-    appVersion: 0.0.1
-    created: "2022-07-06T11:53:24.888137912Z"
-    dependencies:
-    - name: scanner
-      repository: https://oligocybersecurity.github.io/helm-chart-repo
-      version: '>= 1.0.0'
-    description: A Helm chart for installing Oligo Java agent on Kubernetes
-    digest: 1f2336aa66ea35c3d835c3814ad67f3fdbd4d28656ea021f175af61e1fc6411c
-    name: oligo-java-agent
-    type: application
-    urls:
-    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-java-agent-0.0.1.tgz
-    version: 0.0.1
   olipy:
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2022-07-06T11:24:46.425422184Z"
+    created: "2022-07-06T11:58:16.866029708Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -42,7 +28,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2022-07-06T11:24:46.421635362Z"
+    created: "2022-07-06T11:58:16.863933343Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -57,7 +43,7 @@ entries:
   scanner:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2022-07-06T11:24:46.426466679Z"
+    created: "2022-07-06T11:58:16.866522628Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: b5ce0a64761c110cb5a6b5797e705f37947eac12ed9418d4b807d1efc43bd048
     name: scanner
@@ -65,4 +51,4 @@ entries:
     urls:
     - helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2022-07-06T11:53:24.885218175Z"
+generated: "2022-07-06T11:58:16.860754337Z"
