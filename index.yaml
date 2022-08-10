@@ -61,17 +61,17 @@ entries:
   python-agent:
   - apiVersion: v2
     appVersion: 1.3.1
-    created: "2022-08-10T10:41:29.115351438Z"
+    created: "2022-08-10T16:00:05.523728092Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
       version: '>= 1.3.0'
     description: Oligo's official Helm chart for Kubernetes
-    digest: ec8deb8ce68b6032bee52dcc1be72552351c01de165fed43c9460af632032f92
+    digest: 2403b65026fb92e08992636a6ab38831c3b6f203ed594804781c016c14de6301
     name: python-agent
     type: application
     urls:
-    - helm-chart-sources/python-agent-1.3.1.tgz
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/python-agent-1.3.1.tgz
     version: 1.3.1
   scanner:
   - apiVersion: v2
@@ -94,4 +94,4 @@ entries:
     urls:
     - helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2022-08-10T10:41:29.108918534Z"
+generated: "2022-08-10T16:00:05.520809004Z"
