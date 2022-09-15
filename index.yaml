@@ -26,6 +26,24 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/go-agent-1.0.4.tgz
     version: 1.0.4
+  go-python-agent:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-09-15T12:18:07.019190011Z"
+    dependencies:
+    - name: scanner
+      repository: https://oligocybersecurity.github.io/helm-chart-repo
+      version: '>= 1.4.0'
+    - name: collector
+      repository: https://oligocybersecurity.github.io/helm-chart-repo
+      version: '>= 1.0.0'
+    description: Oligo's python agent helm chart
+    digest: 56ed75246b6ec5abaaabe53a80f873e79c8fbc4c0ffa68aa56af3ae0d7933aac
+    name: go-python-agent
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/go-python-agent-1.0.0.tgz
+    version: 1.0.0
   oligo-java-agent:
   - apiVersion: v2
     appVersion: 1.0.3
@@ -237,4 +255,4 @@ entries:
     urls:
     - helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2022-09-15T12:07:11.178955578Z"
+generated: "2022-09-15T12:18:07.015958217Z"
