@@ -22,6 +22,16 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/gateway-1.0.0.tgz
     version: 1.0.0
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-10-19T11:29:44.6565384Z"
+    description: A Helm chart for Kubernetes
+    digest: 07530d5e93ca97c73d540624888bf3944edd1b781fe968cbe0362e7df7020681
+    name: gateway
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/gateway-0.0.1.tgz
+    version: 0.0.1
   go-agent:
   - apiVersion: v2
     appVersion: 1.0.4
@@ -326,4 +336,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2022-10-18T11:59:33.575944621Z"
+generated: "2022-10-19T11:29:44.655731696Z"
