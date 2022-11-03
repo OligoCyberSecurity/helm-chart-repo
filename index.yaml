@@ -3,9 +3,9 @@ entries:
   collector:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-11-03T08:54:12.826700542Z"
+    created: "2022-11-03T13:53:13.598547893Z"
     description: A Helm chart for Kubernetes
-    digest: d9c34c34850ab4eb468cfd6eb1dd70fdc6fdfcb6a37a2f2aa9f64fca5f7bd439
+    digest: 99cbd93d785e4d186b61f9506a9c57ebcc251a76f13c51aaa4718dd2fd73bb3d
     name: collector
     type: application
     urls:
@@ -442,4 +442,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2022-11-03T13:52:28.169503438Z"
+generated: "2022-11-03T13:53:13.597859984Z"
