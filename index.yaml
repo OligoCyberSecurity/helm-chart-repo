@@ -3,7 +3,7 @@ entries:
   collector:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-11-07T14:29:43.782380138Z"
+    created: "2022-11-07T14:49:05.357902586Z"
     description: A Helm chart for Kubernetes
     digest: 99cbd93d785e4d186b61f9506a9c57ebcc251a76f13c51aaa4718dd2fd73bb3d
     name: collector
@@ -13,7 +13,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-11-07T14:29:43.781758111Z"
+    created: "2022-11-07T14:49:05.356969733Z"
     description: A Helm chart for Kubernetes
     digest: 872de602f7ea4f889764bdcf96df0bb401fab235441ead3432e0cf8a73062f50
     name: collector
@@ -24,7 +24,7 @@ entries:
   gateway:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2022-11-07T14:29:43.783889818Z"
+    created: "2022-11-07T14:49:05.359571552Z"
     description: A Helm chart for Kubernetes
     digest: 26d7056ec1d307de5441d2b871e61c8be77d7fce7ea793de4a6515e0e65fc6de
     name: gateway
@@ -34,7 +34,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-07T14:29:43.783440386Z"
+    created: "2022-11-07T14:49:05.359051972Z"
     description: A Helm chart for Kubernetes
     digest: 40f01c807f271a09c6ed9968b5abf1701d64a213ab59d445b1ae4da24c0e4897
     name: gateway
@@ -44,7 +44,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-11-07T14:29:43.782968576Z"
+    created: "2022-11-07T14:49:05.358486156Z"
     description: A Helm chart for Kubernetes
     digest: d077fd1668006ebc90f6fe7446512fb2f059d33074d71ff2b0781b5c186ea979
     name: gateway
@@ -55,7 +55,7 @@ entries:
   go-agent:
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2022-11-07T14:29:43.785947033Z"
+    created: "2022-11-07T14:49:05.361107842Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -70,7 +70,7 @@ entries:
   go-python-agent:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2022-11-07T14:29:43.797028224Z"
+    created: "2022-11-07T14:49:05.372458779Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -87,7 +87,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-11-07T14:29:43.790484769Z"
+    created: "2022-11-07T14:49:05.367831313Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -104,7 +104,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2022-11-07T14:29:43.788028996Z"
+    created: "2022-11-07T14:49:05.363152058Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -122,7 +122,7 @@ entries:
   oligo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-07T14:29:43.801728693Z"
+    created: "2022-11-07T14:49:05.377166394Z"
     description: A Helm chart for Kubernetes
     digest: 085110a00b06606f30d06d5f06738e9553650c08384a1e79d9ae5ce6e20a34fd
     name: oligo
@@ -132,9 +132,9 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-07T14:29:43.79987482Z"
+    created: "2022-11-07T14:49:05.37473638Z"
     description: A Helm chart for Kubernetes
-    digest: e7a0e4255e09199ae9d32f46c5e77c8102a0026cff0d536c96a11b291a7f705e
+    digest: f99ccbc4c014c6cece918ec1c3d2530149b585370046cd6e3830317682380fd9
     name: oligo
     type: application
     urls:
@@ -143,7 +143,7 @@ entries:
   oligo-java-agent:
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2022-11-07T14:29:43.815069074Z"
+    created: "2022-11-07T14:49:05.392837061Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -157,7 +157,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2022-11-07T14:29:43.813167736Z"
+    created: "2022-11-07T14:49:05.388660871Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -171,7 +171,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2022-11-07T14:29:43.807526328Z"
+    created: "2022-11-07T14:49:05.385186464Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -185,7 +185,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2022-11-07T14:29:43.805597359Z"
+    created: "2022-11-07T14:49:05.383072614Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -199,7 +199,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-11-07T14:29:43.803218716Z"
+    created: "2022-11-07T14:49:05.378590876Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -214,7 +214,7 @@ entries:
   olipy:
   - apiVersion: v2
     appVersion: 1.2.2
-    created: "2022-11-07T14:29:43.820725566Z"
+    created: "2022-11-07T14:49:05.399364199Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -228,7 +228,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2022-11-07T14:29:43.818706609Z"
+    created: "2022-11-07T14:49:05.397737729Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -242,7 +242,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2022-11-07T14:29:43.816494621Z"
+    created: "2022-11-07T14:49:05.396167622Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -257,7 +257,7 @@ entries:
   python-agent:
   - apiVersion: v2
     appVersion: 1.3.3
-    created: "2022-11-07T14:29:43.833394936Z"
+    created: "2022-11-07T14:49:05.404587147Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -271,7 +271,7 @@ entries:
     version: 1.3.3
   - apiVersion: v2
     appVersion: 1.3.2
-    created: "2022-11-07T14:29:43.826213315Z"
+    created: "2022-11-07T14:49:05.403227892Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -285,7 +285,7 @@ entries:
     version: 1.3.2
   - apiVersion: v2
     appVersion: 1.3.1
-    created: "2022-11-07T14:29:43.824122629Z"
+    created: "2022-11-07T14:49:05.401814107Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -299,7 +299,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.3.2
-    created: "2022-11-07T14:29:43.82180414Z"
+    created: "2022-11-07T14:49:05.400476134Z"
     dependencies:
     - name: scanner
       repository: https://oligocybersecurity.github.io/helm-chart-repo
@@ -314,7 +314,7 @@ entries:
   scanner:
   - apiVersion: v2
     appVersion: 1.6.1
-    created: "2022-11-07T14:29:43.844550494Z"
+    created: "2022-11-07T14:49:05.415116973Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: c11906ec7d1061d09e54749e75598e531bcb5d84f68eecf8722ae28ccc92cd52
     name: scanner
@@ -324,7 +324,7 @@ entries:
     version: 1.6.1
   - apiVersion: v2
     appVersion: 1.6.0
-    created: "2022-11-07T14:29:43.844151488Z"
+    created: "2022-11-07T14:49:05.414483399Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: bc7ee91e6a6971e1a7cf62e693c0cb39faaa9ee772206370f72428f3d4e8f11a
     name: scanner
@@ -334,7 +334,7 @@ entries:
     version: 1.6.0
   - apiVersion: v2
     appVersion: 1.5.2
-    created: "2022-11-07T14:29:43.843711738Z"
+    created: "2022-11-07T14:49:05.413975969Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: d5fbe73156bf2fd5722000ca8a798a73760cfab889589e4c04c45a0bf02ec6c6
     name: scanner
@@ -344,7 +344,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: 1.5.1
-    created: "2022-11-07T14:29:43.843219537Z"
+    created: "2022-11-07T14:49:05.413474978Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: 301574201c52dc8691a16931487dbfc82765f90e32d3d8794f6b0b188ab63134
     name: scanner
@@ -354,7 +354,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2022-11-07T14:29:43.842534413Z"
+    created: "2022-11-07T14:49:05.412201317Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: d46cc5ad543e62472d6bb86bc5487b1468497796d827a10f024479b39c762092
     name: scanner
@@ -364,7 +364,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.7
-    created: "2022-11-07T14:29:43.84213671Z"
+    created: "2022-11-07T14:49:05.41125306Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: f7b59be8a0b86e5594f07bb77a6b14ad6bc583a8cf60ef083c63fea1451a5de7
     name: scanner
@@ -374,7 +374,7 @@ entries:
     version: 1.4.7
   - apiVersion: v2
     appVersion: 1.4.6
-    created: "2022-11-07T14:29:43.841740104Z"
+    created: "2022-11-07T14:49:05.409866083Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: 2ba6ec166d3ebdadb56ecd8e4dd8c3a4ab07a0f4b3039dd2d136ba5d3822d9db
     name: scanner
@@ -384,7 +384,7 @@ entries:
     version: 1.4.6
   - apiVersion: v2
     appVersion: 1.4.4
-    created: "2022-11-07T14:29:43.841340932Z"
+    created: "2022-11-07T14:49:05.408814748Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: b2a4baf824dcfcca54979c26c70d663241620967adda94af24e3083d3c242fd7
     name: scanner
@@ -394,7 +394,7 @@ entries:
     version: 1.4.4
   - apiVersion: v2
     appVersion: 1.4.3
-    created: "2022-11-07T14:29:43.840913581Z"
+    created: "2022-11-07T14:49:05.407442516Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: 1fb39ed4e70692cfa20dbeb8fda078a20a1650338beeb80b0968d810c6db539c
     name: scanner
@@ -404,7 +404,7 @@ entries:
     version: 1.4.3
   - apiVersion: v2
     appVersion: 1.4.2
-    created: "2022-11-07T14:29:43.836954275Z"
+    created: "2022-11-07T14:49:05.406967199Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: 7fcb910ec5377689864cc23b623789684f93a1fcdb1806dde6eb99015a6e6dee
     name: scanner
@@ -414,7 +414,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: 1.4.1
-    created: "2022-11-07T14:29:43.836386612Z"
+    created: "2022-11-07T14:49:05.406533691Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: 6ed9d0951985b5ca9887f29bd91fd3e35e58adb42f4e8dd7d00a80d576bf7141
     name: scanner
@@ -424,7 +424,7 @@ entries:
     version: 1.4.1
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2022-11-07T14:29:43.835820648Z"
+    created: "2022-11-07T14:49:05.406052263Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: b72d8a76a35af19384c887455aa51ee38bc392a4d962aaa597ee34891bece631
     name: scanner
@@ -434,7 +434,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2022-11-07T14:29:43.835227038Z"
+    created: "2022-11-07T14:49:05.405644743Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: 7462c3c3ecdc9e055e1c5b6d9f2fe6ecedc18c2d99650e96fd76be070ebdc65f
     name: scanner
@@ -444,7 +444,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2022-11-07T14:29:43.834241909Z"
+    created: "2022-11-07T14:49:05.405087879Z"
     description: Oligo Scanner's official Helm chart for Kubernetes
     digest: b5ce0a64761c110cb5a6b5797e705f37947eac12ed9418d4b807d1efc43bd048
     name: scanner
@@ -452,4 +452,4 @@ entries:
     urls:
     - helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2022-11-07T14:29:43.780907595Z"
+generated: "2022-11-07T14:49:05.356009055Z"
