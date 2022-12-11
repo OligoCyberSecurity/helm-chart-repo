@@ -122,9 +122,9 @@ entries:
   oligo:
   - apiVersion: v2
     appVersion: 3.2.1
-    created: "2022-12-11T13:36:20.271798204Z"
+    created: "2022-12-11T14:18:09.847411918Z"
     description: A Helm chart for Kubernetes
-    digest: b654de92eb1fc1ac61c499b23e5b249094b5bf86e9e5d4af961e2a5b25cb98be
+    digest: 98e41508d1578e704f8880386171fbb7972ed40ac0911abda27e3ba32c0c63cf
     name: oligo
     type: application
     urls:
@@ -522,4 +522,4 @@ entries:
     urls:
     - helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2022-12-11T13:36:20.26868382Z"
+generated: "2022-12-11T14:18:09.844386658Z"
