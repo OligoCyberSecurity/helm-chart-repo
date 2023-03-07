@@ -530,9 +530,9 @@ entries:
   oligo-operator:
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-03-07T13:42:05.863731144Z"
+    created: "2023-03-07T14:13:32.978598263Z"
     description: A Helm chart for Kubernetes
-    digest: a863abfea2d49a481587a3a15b0705f9d6cffd63c0ae4451ee2716d6e504484c
+    digest: 10f5853268b7cf2b92f1d8e752b2d4e95c88853a5a84fa216ee76dc9856a3c62
     name: oligo-operator
     type: application
     urls:
@@ -799,4 +799,4 @@ entries:
     urls:
     - helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2023-03-07T14:13:23.922282687Z"
+generated: "2023-03-07T14:13:32.976964176Z"
