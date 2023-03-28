@@ -122,14 +122,14 @@ entries:
   oligo:
   - apiVersion: v2
     appVersion: 3.4.8
-    created: "2023-03-28T12:23:38.993172751Z"
+    created: "2023-03-28T14:33:14.460619528Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
       version: 0.21.6
     description: A Helm chart for Kubernetes
-    digest: 5c11379a92190a61fce9d54d351534faf1644791e97a4413cae65a85c6e78d6a
+    digest: 3c8980df4fbcf37d78c1fd115535d1432e1aa3d153c6ad257c6da26dbaf6b499
     name: oligo
     type: application
     urls:
@@ -839,4 +839,4 @@ entries:
     urls:
     - helm-chart-sources/scanner-1.2.0.tgz
     version: 1.2.0
-generated: "2023-03-28T12:23:38.988233295Z"
+generated: "2023-03-28T14:33:14.456425295Z"
