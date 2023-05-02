@@ -3,7 +3,7 @@ entries:
   oligo:
   - apiVersion: v2
     appVersion: 3.5.8
-    created: "2023-05-01T13:03:59.612509546Z"
+    created: "2023-05-02T08:44:31.783403172Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -18,7 +18,7 @@ entries:
     version: 3.5.8
   - apiVersion: v2
     appVersion: 3.5.7
-    created: "2023-04-24T13:19:43.562217693Z"
+    created: "2023-05-02T08:44:31.775893745Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -33,7 +33,7 @@ entries:
     version: 3.5.7
   - apiVersion: v2
     appVersion: 3.5.6
-    created: "2023-04-20T12:42:15.336896869Z"
+    created: "2023-05-02T08:44:31.772593916Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -48,7 +48,7 @@ entries:
     version: 3.5.6
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2023-04-19T09:15:40.657904224Z"
+    created: "2023-05-02T08:44:31.769209674Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -63,7 +63,7 @@ entries:
     version: 3.5.5
   - apiVersion: v2
     appVersion: 3.5.4
-    created: "2023-04-16T08:25:26.484516708Z"
+    created: "2023-05-02T08:44:31.765274742Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -78,7 +78,7 @@ entries:
     version: 3.5.4
   - apiVersion: v2
     appVersion: 3.5.3
-    created: "2023-04-11T12:07:09.860680956Z"
+    created: "2023-05-02T08:44:31.761190121Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -93,7 +93,7 @@ entries:
     version: 3.5.3
   - apiVersion: v2
     appVersion: 3.5.2
-    created: "2023-04-10T11:42:24.599875658Z"
+    created: "2023-05-02T08:44:31.757245883Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -108,7 +108,7 @@ entries:
     version: 3.5.2
   - apiVersion: v2
     appVersion: 3.5.1
-    created: "2023-04-10T11:42:24.59587992Z"
+    created: "2023-05-02T08:44:31.749388904Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -123,7 +123,7 @@ entries:
     version: 3.5.1
   - apiVersion: v2
     appVersion: 3.5.0
-    created: "2023-04-10T11:42:24.592467897Z"
+    created: "2023-05-02T08:44:31.740161264Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -138,7 +138,7 @@ entries:
     version: 3.5.0
   - apiVersion: v2
     appVersion: 3.4.8
-    created: "2023-04-10T11:42:24.587442349Z"
+    created: "2023-05-02T08:44:31.736082917Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -153,7 +153,7 @@ entries:
     version: 3.4.8
   - apiVersion: v2
     appVersion: 3.4.7
-    created: "2023-04-10T11:42:24.58194618Z"
+    created: "2023-05-02T08:44:31.730050835Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -168,7 +168,7 @@ entries:
     version: 3.4.7
   - apiVersion: v2
     appVersion: 3.4.6
-    created: "2023-04-10T11:42:24.57879103Z"
+    created: "2023-05-02T08:44:31.725437018Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -183,7 +183,7 @@ entries:
     version: 3.4.6
   - apiVersion: v2
     appVersion: 3.4.5
-    created: "2023-04-10T11:42:24.574564431Z"
+    created: "2023-05-02T08:44:31.717460923Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -198,7 +198,7 @@ entries:
     version: 3.4.5
   - apiVersion: v2
     appVersion: 3.4.4
-    created: "2023-04-10T11:42:24.566005488Z"
+    created: "2023-05-02T08:44:31.712150416Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -212,7 +212,7 @@ entries:
     version: 3.4.4
   - apiVersion: v2
     appVersion: 3.4.3
-    created: "2023-04-10T11:42:24.561325959Z"
+    created: "2023-05-02T08:44:31.705061275Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -226,7 +226,7 @@ entries:
     version: 3.4.3
   - apiVersion: v2
     appVersion: 3.4.2
-    created: "2023-04-10T11:42:24.556783802Z"
+    created: "2023-05-02T08:44:31.696695093Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -240,7 +240,7 @@ entries:
     version: 3.4.2
   - apiVersion: v2
     appVersion: 3.4.1
-    created: "2023-04-10T11:42:24.551331003Z"
+    created: "2023-05-02T08:44:31.691252316Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -254,7 +254,7 @@ entries:
     version: 3.4.1
   - apiVersion: v2
     appVersion: 3.4.0
-    created: "2023-04-10T11:42:24.544409676Z"
+    created: "2023-05-02T08:44:31.686348176Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -268,7 +268,7 @@ entries:
     version: 3.4.0
   - apiVersion: v2
     appVersion: 3.3.6
-    created: "2023-04-10T11:42:24.539851984Z"
+    created: "2023-05-02T08:44:31.679887371Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -282,7 +282,7 @@ entries:
     version: 3.3.6
   - apiVersion: v2
     appVersion: 3.3.5
-    created: "2023-04-10T11:42:24.536269277Z"
+    created: "2023-05-02T08:44:31.673120709Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -296,7 +296,7 @@ entries:
     version: 3.3.5
   - apiVersion: v2
     appVersion: 3.3.4
-    created: "2023-04-10T11:42:24.531021696Z"
+    created: "2023-05-02T08:44:31.667779747Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -310,7 +310,7 @@ entries:
     version: 3.3.4
   - apiVersion: v2
     appVersion: 3.3.3
-    created: "2023-04-10T11:42:24.526125361Z"
+    created: "2023-05-02T08:44:31.662068696Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -324,7 +324,7 @@ entries:
     version: 3.3.3
   - apiVersion: v2
     appVersion: 3.3.2
-    created: "2023-04-10T11:42:24.519867801Z"
+    created: "2023-05-02T08:44:31.655907756Z"
     description: A Helm chart for Kubernetes
     digest: b91c010e0f2e2caa909b151fdff9df3b5ea230f744f86ce8d2dfbf9de7a85d83
     name: oligo
@@ -334,7 +334,7 @@ entries:
     version: 3.3.2
   - apiVersion: v2
     appVersion: 3.3.1
-    created: "2023-04-10T11:42:24.515232237Z"
+    created: "2023-05-02T08:44:31.652244609Z"
     description: A Helm chart for Kubernetes
     digest: abae929c23a1dbdedd992a1411a783cb19396f32296f249516fd6879a8a2d03a
     name: oligo
@@ -344,7 +344,7 @@ entries:
     version: 3.3.1
   - apiVersion: v2
     appVersion: 3.3.0
-    created: "2023-04-10T11:42:24.509693069Z"
+    created: "2023-05-02T08:44:31.649039643Z"
     description: A Helm chart for Kubernetes
     digest: 2f8993407b203c700aa5a302e0dafabe6b0b273d57c21d25204da6a65abf4796
     name: oligo
@@ -354,7 +354,7 @@ entries:
     version: 3.3.0
   - apiVersion: v2
     appVersion: 3.2.8
-    created: "2023-04-10T11:42:24.506681155Z"
+    created: "2023-05-02T08:44:31.64563888Z"
     description: A Helm chart for Kubernetes
     digest: f7e51fa389727f77eaa5cbd77cf5616d7df85f2c2934d60f2767c100b571b780
     name: oligo
@@ -364,7 +364,7 @@ entries:
     version: 3.2.8
   - apiVersion: v2
     appVersion: 3.2.6
-    created: "2023-04-10T11:42:24.503946405Z"
+    created: "2023-05-02T08:44:31.640346763Z"
     description: A Helm chart for Kubernetes
     digest: 0e9e98f5b918f64f49c9b8d5765c627b7a9d035907d255a0b26f9faa32a26f0e
     name: oligo
@@ -374,7 +374,7 @@ entries:
     version: 3.2.6
   - apiVersion: v2
     appVersion: 3.2.5
-    created: "2023-04-10T11:42:24.501541895Z"
+    created: "2023-05-02T08:44:31.6371641Z"
     description: A Helm chart for Kubernetes
     digest: 79872ea0d8c3b5183130793cb85d82020e22673dbd38ea21e7308d73c4090142
     name: oligo
@@ -384,7 +384,7 @@ entries:
     version: 3.2.5
   - apiVersion: v2
     appVersion: 3.2.4
-    created: "2023-04-10T11:42:24.498884Z"
+    created: "2023-05-02T08:44:31.634163609Z"
     description: A Helm chart for Kubernetes
     digest: 59886f50bdc24b93cd2bee0399318846b7bb5aea676af9c78fc5c1f6477c0d12
     name: oligo
@@ -394,7 +394,7 @@ entries:
     version: 3.2.4
   - apiVersion: v2
     appVersion: 3.2.3
-    created: "2023-04-10T11:42:24.49532738Z"
+    created: "2023-05-02T08:44:31.631270284Z"
     description: A Helm chart for Kubernetes
     digest: 57bf3beb8e8891bbeb0e738aa042124e86bd204242ee0f98ebcc0782487b56ea
     name: oligo
@@ -404,7 +404,7 @@ entries:
     version: 3.2.3
   - apiVersion: v2
     appVersion: 3.2.2
-    created: "2023-04-10T11:42:24.491903935Z"
+    created: "2023-05-02T08:44:31.626069773Z"
     description: A Helm chart for Kubernetes
     digest: 751e6a2b59bc52005f42e49e188fa2b2e3fe5b0df44792e8060fe07b712c769e
     name: oligo
@@ -414,7 +414,7 @@ entries:
     version: 3.2.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-10T11:42:24.48945928Z"
+    created: "2023-05-02T08:44:31.623217025Z"
     description: A Helm chart for Kubernetes
     digest: 7ef7021f318efe85f21b58a9480afab81fecde43b757f3366fa1d44e06be43e0
     name: oligo
@@ -424,7 +424,7 @@ entries:
     version: 3.2.1
   - apiVersion: v2
     appVersion: 3.1.1
-    created: "2023-04-10T11:42:24.487261636Z"
+    created: "2023-05-02T08:44:31.620494258Z"
     description: A Helm chart for Kubernetes
     digest: f068205d423fff56fe77e631f5b4804527155cad06d99f01fac44a135c709e1a
     name: oligo
@@ -434,7 +434,7 @@ entries:
     version: 3.1.1
   - apiVersion: v2
     appVersion: 3.1.0
-    created: "2023-04-10T11:42:24.485145267Z"
+    created: "2023-05-02T08:44:31.617406417Z"
     description: A Helm chart for Kubernetes
     digest: 2148288effde95aecc3dcfa490c3335791fba061d6d695d99163998e5c6a78b6
     name: oligo
@@ -444,7 +444,7 @@ entries:
     version: 3.1.0
   - apiVersion: v2
     appVersion: 3.0.1
-    created: "2023-04-10T11:42:24.48074581Z"
+    created: "2023-05-02T08:44:31.614821187Z"
     description: A Helm chart for Kubernetes
     digest: 3a045463aba40da856f519515a05a986be81bf7c8240e43a5f029cf3a8d70a30
     name: oligo
@@ -454,7 +454,7 @@ entries:
     version: 3.0.1
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2023-04-10T11:42:24.477572243Z"
+    created: "2023-05-02T08:44:31.605832764Z"
     description: A Helm chart for Kubernetes
     digest: f44726420f6591f100de64c9e5931a46b62c8f97f21aa0e60631b2d7b75ab112
     name: oligo
@@ -464,7 +464,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2023-04-10T11:42:24.474994197Z"
+    created: "2023-05-02T08:44:31.600749434Z"
     description: A Helm chart for Kubernetes
     digest: c8886b3e91f88a2d4314a743766c6cc3fc2ff00df1548f6e2bbef0a8274478c7
     name: oligo
@@ -474,7 +474,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-10T11:42:24.472907913Z"
+    created: "2023-05-02T08:44:31.597106677Z"
     description: A Helm chart for Kubernetes
     digest: 77c469927a87911bdbf1623acd866e805d954f746bcf53ef26d2f6c993a8842a
     name: oligo
@@ -484,7 +484,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-10T11:42:24.470662737Z"
+    created: "2023-05-02T08:44:31.593940543Z"
     description: A Helm chart for Kubernetes
     digest: 085110a00b06606f30d06d5f06738e9553650c08384a1e79d9ae5ce6e20a34fd
     name: oligo
@@ -494,7 +494,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2023-05-02T05:44:52.386505884Z"
+    created: "2023-05-02T08:44:31.590995523Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -510,7 +510,7 @@ entries:
   oligo-operator:
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2023-04-27T11:06:03.421771624Z"
+    created: "2023-05-02T08:44:31.790920232Z"
     description: A Helm chart for Kubernetes
     digest: e4ccaa1417345b25ec53989d34c5eda53d9d48ca21bc519097f5038eac5d8c75
     name: oligo-operator
@@ -520,7 +520,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2023-04-17T08:26:48.608765851Z"
+    created: "2023-05-02T08:44:31.790303083Z"
     description: A Helm chart for Kubernetes
     digest: 1aa26eca263839d240865b447b7b5e1a9447dafd7100e3a606eeb7e6c63ca7ea
     name: oligo-operator
@@ -530,7 +530,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2023-04-10T11:42:24.602987304Z"
+    created: "2023-05-02T08:44:31.789752393Z"
     description: A Helm chart for Kubernetes
     digest: abdb08d9f2479dfb201192a1c71b7a1270c1a5840827117080544a16050536a6
     name: oligo-operator
@@ -540,7 +540,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2023-04-10T11:42:24.6024021Z"
+    created: "2023-05-02T08:44:31.788574998Z"
     description: A Helm chart for Kubernetes
     digest: 7a442b5fdee506bb1721814096d4e1ba9b4262690a5440a563e11ff058412ea7
     name: oligo-operator
@@ -550,7 +550,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-04-10T11:42:24.601850213Z"
+    created: "2023-05-02T08:44:31.787563928Z"
     description: A Helm chart for Kubernetes
     digest: 10f5853268b7cf2b92f1d8e752b2d4e95c88853a5a84fa216ee76dc9856a3c62
     name: oligo-operator
@@ -560,7 +560,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-04-10T11:42:24.601341928Z"
+    created: "2023-05-02T08:44:31.786537951Z"
     description: A Helm chart for Kubernetes
     digest: 10dba6e270cbaa18243f761928df60d8d770ef047b30d5fddc71b80b3db66d3b
     name: oligo-operator
@@ -570,7 +570,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-10T11:42:24.600437906Z"
+    created: "2023-05-02T08:44:31.785527522Z"
     description: A Helm chart for Kubernetes
     digest: 6ccb44997bc5b39ef5b8681f430ff96f521cbbcab93f5a7d57dcb663e7a51507
     name: oligo-operator
@@ -578,4 +578,14 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-1.0.0.tgz
     version: 1.0.0
-generated: "2023-05-02T05:44:52.383338908Z"
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-05-02T08:44:31.78422431Z"
+    description: A Helm chart for Kubernetes
+    digest: 2da923d02292ada5fe905ef79a1364ddd4ee1f789c2fd8757537a237ab43d3db
+    name: oligo-operator
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
+    version: 0.0.0
+generated: "2023-05-02T08:44:31.585068326Z"
