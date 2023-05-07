@@ -524,14 +524,14 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2023-05-07T14:02:56.908523577Z"
+    created: "2023-05-07T14:54:09.183845082Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
       version: 0.21.6
     description: A Helm chart for Kubernetes
-    digest: 7a3d267d7a3e2b5fe8880c17ad9a6141fc54fc2ee2c0b08bcd5504b9ab722ccd
+    digest: 74c06a8b3346968700c9941fd56290eba6264050bcbf1016fdf822963555e143
     name: oligo
     type: application
     urls:
@@ -628,4 +628,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2023-05-07T14:24:01.047948014Z"
+generated: "2023-05-07T14:54:09.178506989Z"
