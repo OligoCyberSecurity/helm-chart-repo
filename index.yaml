@@ -1344,9 +1344,9 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2023-12-24T09:46:58.89700029Z"
+    created: "2023-12-24T11:05:05.528011421Z"
     description: A Helm chart for Kubernetes
-    digest: 1c7c3cea2d4e6fd9327cbf29df1e0d1480bdd3aba03acc3d82acefcb8dc62f73
+    digest: 7343e817cdadc10ab1ba47ffb6f0eda22a9cd0fdd2a6befd5d865bcf69668702
     name: oligo
     type: application
     urls:
@@ -1362,6 +1362,16 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-0.0.0-natantest.tgz
     version: 0.0.0-natantest
+  - apiVersion: v2
+    appVersion: 0.0.0-guyk
+    created: "2023-12-24T09:46:58.892206838Z"
+    description: A Helm chart for Kubernetes
+    digest: c4b4d7afb2df7abc78f6348929f05c496df5ca80f03f5439038d7c68f62ab4de
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-0.0.0-guyk.tgz
+    version: 0.0.0-guyk
   - apiVersion: v2
     appVersion: v4.4.1
     created: "2023-12-24T09:46:58.890162235Z"
@@ -1564,16 +1574,6 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
   - apiVersion: v2
-    appVersion: 0.0.0-guyk
-    created: "2023-12-24T09:46:58.892206838Z"
-    description: A Helm chart for Kubernetes
-    digest: c4b4d7afb2df7abc78f6348929f05c496df5ca80f03f5439038d7c68f62ab4de
-    name: oligo
-    type: application
-    urls:
-    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-0.0.0-guyk.tgz
-    version: 0.0.0-guyk
-  - apiVersion: v2
     appVersion: 0.0.0-govrin
     created: "2023-12-24T09:46:59.248072326Z"
     description: A Helm chart for Kubernetes
@@ -1583,4 +1583,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0-govrin.tgz
     version: 0.0.0-govrin
-generated: "2023-12-24T09:46:58.888446028Z"
+generated: "2023-12-24T11:05:05.524707617Z"
