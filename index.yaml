@@ -1673,6 +1673,16 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-0.0.0-natantest.tgz
     version: 0.0.0-natantest
   - apiVersion: v2
+    appVersion: 0.0.0-govrin.1
+    created: "2024-03-14T13:45:52.82907946Z"
+    description: A Helm chart for Kubernetes
+    digest: 9900fbe1f6fc79261ffec14d85c873a6b133a0d2ebd3713e708db075875a7e39
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-0.0.0-govrin.1.tgz
+    version: 0.0.0-govrin.1
+  - apiVersion: v2
     appVersion: 0.0.0
     created: "2024-03-10T15:53:14.590659379Z"
     description: A Helm chart for Kubernetes
@@ -1923,4 +1933,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0-govrin.tgz
     version: 0.0.0-govrin
-generated: "2024-03-14T13:12:44.94225098Z"
+generated: "2024-03-14T13:45:52.827547395Z"
