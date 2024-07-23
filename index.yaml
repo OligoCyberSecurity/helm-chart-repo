@@ -2404,9 +2404,9 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2024-07-23T13:21:31.115677503Z"
+    created: "2024-07-23T14:25:00.91492647Z"
     description: A Helm chart for Kubernetes
-    digest: 32cee4daf706d12f28a7975a6b0a4b960dd19970a750b18eea48f736d93730c0
+    digest: 2c12d9e024db2c769510c5b432b18ace29aa11f2b7d31e5f6c76838801043339
     name: oligo
     type: application
     urls:
@@ -2693,4 +2693,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2024-07-23T14:03:31.764931402Z"
+generated: "2024-07-23T14:25:00.913145643Z"
