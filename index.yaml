@@ -62,6 +62,16 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.17.1-expiramental-program-events.tgz
     version: 5.17.1-expiramental-program-events
   - apiVersion: v2
+    appVersion: 5.16.0
+    created: "2025-03-05T15:36:06.613956227Z"
+    description: A Helm chart for Kubernetes
+    digest: cbfba8f73b3749cc9f41ecfd60c29183d3ab081878ff82eb38a36b7ae333910c
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.16.0.tgz
+    version: 5.16.0
+  - apiVersion: v2
     appVersion: 5.16.0-rc7
     created: "2025-03-05T10:27:48.238278688Z"
     description: A Helm chart for Kubernetes
@@ -3653,4 +3663,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-03-05T12:04:18.430845707Z"
+generated: "2025-03-05T15:36:06.611193909Z"
