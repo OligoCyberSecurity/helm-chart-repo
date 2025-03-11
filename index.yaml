@@ -3,7 +3,7 @@ entries:
   oligo:
   - apiVersion: v2
     appVersion: 5.17.4-experimental-program-events
-    created: "2025-02-26T17:51:22.129209177Z"
+    created: "2025-03-11T16:33:22.104156027Z"
     description: A Helm chart for Kubernetes
     digest: a77cd93bd8c7f3d481b6c165db7d7237c2e53fcbb86b9a0be53d4428b64eabbd
     name: oligo
@@ -13,7 +13,7 @@ entries:
     version: 5.17.4-experimental-program-events
   - apiVersion: v2
     appVersion: 5.17.3-experimental-program-events
-    created: "2025-02-25T16:19:42.555408055Z"
+    created: "2025-03-11T16:33:22.101173221Z"
     description: A Helm chart for Kubernetes
     digest: 88a162cfcaa61cde4fe254a9caf7417b0f73df726374a02cf15e0150266bf443
     name: oligo
@@ -23,7 +23,7 @@ entries:
     version: 5.17.3-experimental-program-events
   - apiVersion: v2
     appVersion: 5.17.2-experimental-program-events-delete-test-with-log
-    created: "2025-02-25T15:45:55.53328737Z"
+    created: "2025-03-11T16:33:22.091178171Z"
     description: A Helm chart for Kubernetes
     digest: dee1c97e685a3351add9e4af7570a01d4b74004ae5e8c79dd0b63ae2d86e42f0
     name: oligo
@@ -33,7 +33,7 @@ entries:
     version: 5.17.2-experimental-program-events-delete-test-with-log
   - apiVersion: v2
     appVersion: 5.17.2-experimental-program-events-delete-test
-    created: "2025-02-25T15:42:51.727199098Z"
+    created: "2025-03-11T16:33:22.094465211Z"
     description: A Helm chart for Kubernetes
     digest: 73c37c50065e952e6744dab70a3a1f2b59320b564bfef81059c4255b90ba9964
     name: oligo
@@ -43,7 +43,7 @@ entries:
     version: 5.17.2-experimental-program-events-delete-test
   - apiVersion: v2
     appVersion: 5.17.2-experimental-program-events
-    created: "2025-02-24T14:05:31.374160611Z"
+    created: "2025-03-11T16:33:22.098279255Z"
     description: A Helm chart for Kubernetes
     digest: ad3deb05617a88cadf9272f44554cfb4716ea340e71962554f2f01135e84095d
     name: oligo
@@ -53,7 +53,7 @@ entries:
     version: 5.17.2-experimental-program-events
   - apiVersion: v2
     appVersion: 5.17.1-expiramental-program-events
-    created: "2025-02-23T16:40:59.354620286Z"
+    created: "2025-03-11T16:33:22.088280645Z"
     description: A Helm chart for Kubernetes
     digest: b0d0f9ba606e8d3785e8f022bbfd6f5d1778a9bfc94579431d9380559ca78b2a
     name: oligo
@@ -63,7 +63,7 @@ entries:
     version: 5.17.1-expiramental-program-events
   - apiVersion: v2
     appVersion: 5.16.2
-    created: "2025-03-11T13:31:52.373228544Z"
+    created: "2025-03-11T16:33:22.083721884Z"
     description: A Helm chart for Kubernetes
     digest: 080c72558cdd7271fc4b836c1f11a88281ca4d3bf88ae3d58a83248c7c747f53
     name: oligo
@@ -73,7 +73,7 @@ entries:
     version: 5.16.2
   - apiVersion: v2
     appVersion: 5.16.0
-    created: "2025-03-05T15:36:06.613956227Z"
+    created: "2025-03-11T16:33:22.080628276Z"
     description: A Helm chart for Kubernetes
     digest: cbfba8f73b3749cc9f41ecfd60c29183d3ab081878ff82eb38a36b7ae333910c
     name: oligo
@@ -83,7 +83,7 @@ entries:
     version: 5.16.0
   - apiVersion: v2
     appVersion: 5.16.0-rc7
-    created: "2025-03-05T10:27:48.238278688Z"
+    created: "2025-03-11T16:33:22.077779241Z"
     description: A Helm chart for Kubernetes
     digest: 20293ace231b0bcebffd82a63ef601c75ac5580d6a00240e479c700acd2ab6fc
     name: oligo
@@ -93,7 +93,7 @@ entries:
     version: 5.16.0-rc7
   - apiVersion: v2
     appVersion: 5.16.0-rc6
-    created: "2025-03-04T13:16:05.591396824Z"
+    created: "2025-03-11T16:33:22.074898945Z"
     description: A Helm chart for Kubernetes
     digest: 976ecaa50974d7aa9c35ac641aebcf9e3e3ed4508f65c37670022f08d44fd350
     name: oligo
@@ -103,7 +103,7 @@ entries:
     version: 5.16.0-rc6
   - apiVersion: v2
     appVersion: 5.16.0-rc5
-    created: "2025-03-02T18:40:04.50694791Z"
+    created: "2025-03-11T16:33:22.071757127Z"
     description: A Helm chart for Kubernetes
     digest: a0dd3951b516c4fc3f6da26c6020e1fc1cb0924d4bb3b9c7cb1c1ce5a1386069
     name: oligo
@@ -113,7 +113,7 @@ entries:
     version: 5.16.0-rc5
   - apiVersion: v2
     appVersion: 5.16.0-rc4
-    created: "2025-02-20T12:48:52.862129247Z"
+    created: "2025-03-11T16:33:22.067967893Z"
     description: A Helm chart for Kubernetes
     digest: 4bdbf1bce9375a7cd3f72100591dbe7752e9986175212c0d1f1ab3461d84eb0a
     name: oligo
@@ -123,7 +123,7 @@ entries:
     version: 5.16.0-rc4
   - apiVersion: v2
     appVersion: 5.16.0-rc3
-    created: "2025-02-18T14:04:50.62739127Z"
+    created: "2025-03-11T16:33:22.06429891Z"
     description: A Helm chart for Kubernetes
     digest: 1e7181fd51924d88644355f9ab61cabe97cd13f3a0d3fc2cf6acfafa20f24b04
     name: oligo
@@ -133,7 +133,7 @@ entries:
     version: 5.16.0-rc3
   - apiVersion: v2
     appVersion: 5.16.0-rc2
-    created: "2025-02-18T11:33:34.327550606Z"
+    created: "2025-03-11T16:33:22.061036411Z"
     description: A Helm chart for Kubernetes
     digest: 8efb88505ff611c1b6f6db8fb30a8ba69be2bf37da4554a5d38916a11e230482
     name: oligo
@@ -143,7 +143,7 @@ entries:
     version: 5.16.0-rc2
   - apiVersion: v2
     appVersion: 5.16.0-rc1
-    created: "2025-02-10T14:47:03.071468313Z"
+    created: "2025-03-11T16:33:22.057769801Z"
     description: A Helm chart for Kubernetes
     digest: 18e3c11977713ba9d499e2b84307a3b2e5a578479856dfa231c6cf25fc559a06
     name: oligo
@@ -153,7 +153,7 @@ entries:
     version: 5.16.0-rc1
   - apiVersion: v2
     appVersion: 5.16.0-rc0
-    created: "2025-02-02T15:30:40.242642536Z"
+    created: "2025-03-11T16:33:22.054506522Z"
     description: A Helm chart for Kubernetes
     digest: 4986ec4306d067bbd1067d193fbf976da885ca1f10d9365c8248c0f3abdd66ac
     name: oligo
@@ -163,7 +163,7 @@ entries:
     version: 5.16.0-rc0
   - apiVersion: v2
     appVersion: 5.15.3
-    created: "2025-02-26T13:10:34.828109508Z"
+    created: "2025-03-11T16:33:22.049661379Z"
     description: A Helm chart for Kubernetes
     digest: 2b35c089627fa3e93b73fb8b475672fdfd0d53c794c1a86768390fefee7bb7bf
     name: oligo
@@ -173,7 +173,7 @@ entries:
     version: 5.15.3
   - apiVersion: v2
     appVersion: 5.15.2
-    created: "2025-02-04T13:50:03.796892473Z"
+    created: "2025-03-11T16:33:22.046628591Z"
     description: A Helm chart for Kubernetes
     digest: 93dac137322bb39ba82e8d6a25d2e031f9e81ae83486639bd9d067a2e93bea00
     name: oligo
@@ -183,7 +183,7 @@ entries:
     version: 5.15.2
   - apiVersion: v2
     appVersion: 5.15.1
-    created: "2025-01-20T16:53:28.885851269Z"
+    created: "2025-03-11T16:33:22.042823397Z"
     description: A Helm chart for Kubernetes
     digest: 35a7b34033e77ec581915525f23f99639bd61ebfe740a7c5fd2260c72451e60f
     name: oligo
@@ -193,7 +193,7 @@ entries:
     version: 5.15.1
   - apiVersion: v2
     appVersion: 5.15.0-rc4
-    created: "2025-01-16T18:57:35.751456275Z"
+    created: "2025-03-11T16:33:22.039861411Z"
     description: A Helm chart for Kubernetes
     digest: 63d95751b2e01d6981ea9b5bf16119368ea985590daabc3a98217266c837c2ac
     name: oligo
@@ -203,7 +203,7 @@ entries:
     version: 5.15.0-rc4
   - apiVersion: v2
     appVersion: 5.15.0-rc3
-    created: "2025-01-14T13:47:26.408248304Z"
+    created: "2025-03-11T16:33:22.036856274Z"
     description: A Helm chart for Kubernetes
     digest: 461d735209e85506cad5eef551102356c5cecae78687e2f27c1fffcbb477bf71
     name: oligo
@@ -213,7 +213,7 @@ entries:
     version: 5.15.0-rc3
   - apiVersion: v2
     appVersion: 5.15.0-rc2
-    created: "2025-01-08T09:04:41.694787877Z"
+    created: "2025-03-11T16:33:22.032303273Z"
     description: A Helm chart for Kubernetes
     digest: 46b0d075ccfb0040de8bf3430f981855fadc38592b58aac0f00f38b6e4987de1
     name: oligo
@@ -223,7 +223,7 @@ entries:
     version: 5.15.0-rc2
   - apiVersion: v2
     appVersion: 5.15.0-rc1
-    created: "2025-01-07T13:49:46.232331572Z"
+    created: "2025-03-11T16:33:22.029056574Z"
     description: A Helm chart for Kubernetes
     digest: 58685264ea9d4b4ce7ff9b00449a4e695ad7d8eecabef0b96de9dcff7f36cf81
     name: oligo
@@ -233,7 +233,7 @@ entries:
     version: 5.15.0-rc1
   - apiVersion: v2
     appVersion: 5.15.0-rc0
-    created: "2025-01-06T09:27:53.488182129Z"
+    created: "2025-03-11T16:33:22.025937976Z"
     description: A Helm chart for Kubernetes
     digest: 453fe8e4918cf4ef7c988c4bf0ec2d352c63c2944a77e1ff1042c4f37f8aac3b
     name: oligo
@@ -243,7 +243,7 @@ entries:
     version: 5.15.0-rc0
   - apiVersion: v2
     appVersion: 5.14.2
-    created: "2025-01-08T09:15:02.861802169Z"
+    created: "2025-03-11T16:33:22.022514625Z"
     description: A Helm chart for Kubernetes
     digest: dcd53d038093658848488fa8b4f019080962713991743b3aeec95505b911abc0
     name: oligo
@@ -253,7 +253,7 @@ entries:
     version: 5.14.2
   - apiVersion: v2
     appVersion: 5.14.1
-    created: "2025-01-07T14:22:39.123336446Z"
+    created: "2025-03-11T16:33:22.018959183Z"
     description: A Helm chart for Kubernetes
     digest: 7e70b0744af4a8fcc0c12a4f02356484bfae2e088b435df9f7c72223c43d1fef
     name: oligo
@@ -263,7 +263,7 @@ entries:
     version: 5.14.1
   - apiVersion: v2
     appVersion: 5.14.0
-    created: "2025-01-06T09:08:24.928714687Z"
+    created: "2025-03-11T16:33:22.013499754Z"
     description: A Helm chart for Kubernetes
     digest: 3b59bb5adf8b3637277d6d8484f2327a940c9e8e292abb5a87231189c3846695
     name: oligo
@@ -273,7 +273,7 @@ entries:
     version: 5.14.0
   - apiVersion: v2
     appVersion: 5.14.0-rc9
-    created: "2024-12-23T18:09:37.634564648Z"
+    created: "2025-03-11T16:33:22.010336286Z"
     description: A Helm chart for Kubernetes
     digest: dd4d4126bd6aea848b6fbd2af2686efabaebf3a697139c716db7d40bc2977e53
     name: oligo
@@ -283,7 +283,7 @@ entries:
     version: 5.14.0-rc9
   - apiVersion: v2
     appVersion: 5.14.0-rc8
-    created: "2024-12-23T16:39:51.698433126Z"
+    created: "2025-03-11T16:33:22.00741481Z"
     description: A Helm chart for Kubernetes
     digest: 66997b1db876ea7297a98d8df807e29d65fc697bd2d663cc20b2d7aa280db6b5
     name: oligo
@@ -293,7 +293,7 @@ entries:
     version: 5.14.0-rc8
   - apiVersion: v2
     appVersion: 5.14.0-rc7
-    created: "2024-12-17T13:34:12.178922554Z"
+    created: "2025-03-11T16:33:22.004459013Z"
     description: A Helm chart for Kubernetes
     digest: 0b8f88de1983991829b06601a3046ae3a2a9ad96072f6221131ee66f26f665bb
     name: oligo
@@ -303,7 +303,7 @@ entries:
     version: 5.14.0-rc7
   - apiVersion: v2
     appVersion: 5.14.0-rc6
-    created: "2024-12-12T14:32:00.172622595Z"
+    created: "2025-03-11T16:33:22.001293445Z"
     description: A Helm chart for Kubernetes
     digest: 074e353f2e0d7081fdcd091019e8119a7be9239a128b812e9065d9efc023d419
     name: oligo
@@ -313,7 +313,7 @@ entries:
     version: 5.14.0-rc6
   - apiVersion: v2
     appVersion: 5.14.0-rc5
-    created: "2024-12-05T11:38:30.266327449Z"
+    created: "2025-03-11T16:33:21.997229038Z"
     description: A Helm chart for Kubernetes
     digest: 9f72681e5d22e6fd4a20609d7d47c483fa733cbed8dd5166d1c55e4af2b88613
     name: oligo
@@ -323,7 +323,7 @@ entries:
     version: 5.14.0-rc5
   - apiVersion: v2
     appVersion: 5.14.0-rc4
-    created: "2024-12-03T13:26:24.996327742Z"
+    created: "2025-03-11T16:33:21.993746567Z"
     description: A Helm chart for Kubernetes
     digest: dae54d95280e3917f3369fb6892422ded715c35fa83d6ae9768eef125c17b339
     name: oligo
@@ -333,7 +333,7 @@ entries:
     version: 5.14.0-rc4
   - apiVersion: v2
     appVersion: 5.14.0-rc3
-    created: "2024-11-27T13:01:53.73693416Z"
+    created: "2025-03-11T16:33:21.990808041Z"
     description: A Helm chart for Kubernetes
     digest: bcd949f6983bead53c2cfb252a034998f6f9e7620911931bded5c2e8bf475875
     name: oligo
@@ -343,7 +343,7 @@ entries:
     version: 5.14.0-rc3
   - apiVersion: v2
     appVersion: 5.14.0-rc2
-    created: "2024-11-26T09:25:39.202217832Z"
+    created: "2025-03-11T16:33:21.988103496Z"
     description: A Helm chart for Kubernetes
     digest: 3e8567ef1295486ae3b9679174c718ed86541dffe170c36ab8d36b8f49e61ccd
     name: oligo
@@ -353,7 +353,7 @@ entries:
     version: 5.14.0-rc2
   - apiVersion: v2
     appVersion: 5.14.0-rc10
-    created: "2024-12-26T17:03:39.609228325Z"
+    created: "2025-03-11T16:33:21.985357002Z"
     description: A Helm chart for Kubernetes
     digest: ab2efad5ec923b27fd39e31b51f0ceeea33a140e30d586a69649b3b3cba67407
     name: oligo
@@ -363,7 +363,7 @@ entries:
     version: 5.14.0-rc10
   - apiVersion: v2
     appVersion: 5.14.0-rc1
-    created: "2024-11-24T15:01:08.330412891Z"
+    created: "2025-03-11T16:33:21.98178182Z"
     description: A Helm chart for Kubernetes
     digest: 86b1e6c8106c6d1b5a4d34ef934e286112056c72bb7ff38cfa87475db242a71f
     name: oligo
@@ -373,7 +373,7 @@ entries:
     version: 5.14.0-rc1
   - apiVersion: v2
     appVersion: 5.14.0-rc0
-    created: "2024-11-21T12:14:22.029042891Z"
+    created: "2025-03-11T16:33:21.976389471Z"
     description: A Helm chart for Kubernetes
     digest: eb505fb2a5e90c7f676dc4599d7e5df050e10ac007c5d9c176212cc07a0c0412
     name: oligo
@@ -383,7 +383,7 @@ entries:
     version: 5.14.0-rc0
   - apiVersion: v2
     appVersion: 5.14.0-experimental-prevention0
-    created: "2024-12-17T13:41:45.703567732Z"
+    created: "2025-03-11T16:33:21.972993051Z"
     description: A Helm chart for Kubernetes
     digest: bb4f07fad327aa41dc1454bf61f27e47441f9e6691adee7089a0fb9adfaffa79
     name: oligo
@@ -393,7 +393,7 @@ entries:
     version: 5.14.0-experimental-prevention0
   - apiVersion: v2
     appVersion: 5.13.2
-    created: "2024-12-01T15:38:03.459296775Z"
+    created: "2025-03-11T16:33:21.968773933Z"
     description: A Helm chart for Kubernetes
     digest: 4dff0589983c965a56d4e4f54d040be23fe9236bfc94b9aaa06e28c87d91f014
     name: oligo
@@ -403,7 +403,7 @@ entries:
     version: 5.13.2
   - apiVersion: v2
     appVersion: 5.13.1
-    created: "2024-11-24T14:46:05.985215475Z"
+    created: "2025-03-11T16:33:21.965192911Z"
     description: A Helm chart for Kubernetes
     digest: 70c1bc1264d028458fb5a5c1916c719a08aa0c31114cb2fcf6a9f487632f777f
     name: oligo
@@ -413,7 +413,7 @@ entries:
     version: 5.13.1
   - apiVersion: v2
     appVersion: 5.13.0
-    created: "2024-11-21T12:13:30.448449445Z"
+    created: "2025-03-11T16:33:21.960901022Z"
     description: A Helm chart for Kubernetes
     digest: bb932f2be940ce46eee663f20b949c6bfe5676c89448b272a43b2afb561fb8be
     name: oligo
@@ -423,7 +423,7 @@ entries:
     version: 5.13.0
   - apiVersion: v2
     appVersion: 5.13.0-rc9
-    created: "2024-11-14T08:36:32.735587646Z"
+    created: "2025-03-11T16:33:21.955276792Z"
     description: A Helm chart for Kubernetes
     digest: 01bb8d266394589a9659959ba2d6c56f0625d864c0c509c9bf7c489f36d2392a
     name: oligo
@@ -433,7 +433,7 @@ entries:
     version: 5.13.0-rc9
   - apiVersion: v2
     appVersion: 5.13.0-rc8
-    created: "2024-11-14T07:52:28.238504211Z"
+    created: "2025-03-11T16:33:21.95178099Z"
     description: A Helm chart for Kubernetes
     digest: 9799724f49268070e098518426e17b0338b71128857509909f0e4a6801bbb807
     name: oligo
@@ -443,7 +443,7 @@ entries:
     version: 5.13.0-rc8
   - apiVersion: v2
     appVersion: 5.13.0-rc7
-    created: "2024-11-12T14:09:30.754799399Z"
+    created: "2025-03-11T16:33:21.949211057Z"
     description: A Helm chart for Kubernetes
     digest: e9b57e259c59ab264535937141af8ef86f683141bb36d070def72c34c12dbca1
     name: oligo
@@ -453,7 +453,7 @@ entries:
     version: 5.13.0-rc7
   - apiVersion: v2
     appVersion: 5.13.0-rc6
-    created: "2024-11-06T17:19:40.954318367Z"
+    created: "2025-03-11T16:33:21.946702795Z"
     description: A Helm chart for Kubernetes
     digest: b27104093eee7cca34fe90dfda18c5c4b0a7a07645ab96ebc57d4895e72220cc
     name: oligo
@@ -463,7 +463,7 @@ entries:
     version: 5.13.0-rc6
   - apiVersion: v2
     appVersion: 5.13.0-rc5
-    created: "2024-11-06T10:51:31.938549925Z"
+    created: "2025-03-11T16:33:21.944175702Z"
     description: A Helm chart for Kubernetes
     digest: ced55cc0c5d936911deecb295964cb51e766d52787e587a8f22dbca6edfffd0b
     name: oligo
@@ -473,7 +473,7 @@ entries:
     version: 5.13.0-rc5
   - apiVersion: v2
     appVersion: 5.13.0-rc4
-    created: "2024-11-05T13:37:00.636922232Z"
+    created: "2025-03-11T16:33:21.941623399Z"
     description: A Helm chart for Kubernetes
     digest: cbebf224b35cc9c823e5632ffbe5807924e1168635b4e701536bb392150e735e
     name: oligo
@@ -483,7 +483,7 @@ entries:
     version: 5.13.0-rc4
   - apiVersion: v2
     appVersion: 5.13.0-rc3
-    created: "2024-10-31T12:39:20.965590543Z"
+    created: "2025-03-11T16:33:21.938962865Z"
     description: A Helm chart for Kubernetes
     digest: 8e99a2c933f0781dedaaed31fccfbc1256dcaa56eca7e69314cc93beca9ec069
     name: oligo
@@ -493,7 +493,7 @@ entries:
     version: 5.13.0-rc3
   - apiVersion: v2
     appVersion: 5.13.0-rc2
-    created: "2024-10-28T08:47:33.153583448Z"
+    created: "2025-03-11T16:33:21.934602786Z"
     description: A Helm chart for Kubernetes
     digest: 9a0eb265b4bb7cdbd616efd0e0356bf3776a72c097852f35e24cd295f2599a3b
     name: oligo
@@ -503,7 +503,7 @@ entries:
     version: 5.13.0-rc2
   - apiVersion: v2
     appVersion: 5.13.0-rc11
-    created: "2024-11-19T13:37:07.137382785Z"
+    created: "2025-03-11T16:33:21.931956042Z"
     description: A Helm chart for Kubernetes
     digest: f6f73bbf226cc4f3dd4c7b6250712ebed8fa7dd7a15e5076dfa452d36366f0f0
     name: oligo
@@ -513,7 +513,7 @@ entries:
     version: 5.13.0-rc11
   - apiVersion: v2
     appVersion: 5.13.0-rc10
-    created: "2024-11-14T15:10:58.976173846Z"
+    created: "2025-03-11T16:33:21.929210738Z"
     description: A Helm chart for Kubernetes
     digest: c6dbaa81b82504fabcc28f4bcf7cf2cbc45f6e2decaf8160229d1d6f0666bf4e
     name: oligo
@@ -523,7 +523,7 @@ entries:
     version: 5.13.0-rc10
   - apiVersion: v2
     appVersion: 5.13.0-rc1
-    created: "2024-10-21T07:25:08.454707432Z"
+    created: "2025-03-11T16:33:21.92613046Z"
     description: A Helm chart for Kubernetes
     digest: 3e27dc20ceba028052850a4d1af7cffb1b3de021518fbeefc04933f3c7562054
     name: oligo
@@ -533,7 +533,7 @@ entries:
     version: 5.13.0-rc1
   - apiVersion: v2
     appVersion: 5.13.0-rc0
-    created: "2024-10-15T15:26:30.144961773Z"
+    created: "2025-03-11T16:33:21.916358343Z"
     description: A Helm chart for Kubernetes
     digest: da3d1dcb5d7fc8104372414c95bb993482249619da1e8558193fd1f7715fe652
     name: oligo
@@ -543,7 +543,7 @@ entries:
     version: 5.13.0-rc0
   - apiVersion: v2
     appVersion: 5.12.11
-    created: "2024-11-18T16:11:41.969790086Z"
+    created: "2025-03-11T16:33:21.871642101Z"
     description: A Helm chart for Kubernetes
     digest: b980d713ef65862f89d3512f57f15ef9673eec3f01d30374597802768e5fc442
     name: oligo
@@ -553,7 +553,7 @@ entries:
     version: 5.12.11
   - apiVersion: v2
     appVersion: 5.12.10
-    created: "2024-10-23T12:54:54.098236789Z"
+    created: "2025-03-11T16:33:21.868008129Z"
     description: A Helm chart for Kubernetes
     digest: 95be6169473deb1b2d394670096a8c03757722ba9c7c0d5ef70de50b10eccb0c
     name: oligo
@@ -563,7 +563,7 @@ entries:
     version: 5.12.10
   - apiVersion: v2
     appVersion: 5.12.9
-    created: "2024-10-23T09:02:27.178883354Z"
+    created: "2025-03-11T16:33:21.907859826Z"
     description: A Helm chart for Kubernetes
     digest: 550972a1a335bfe44a3dfc9cda98b913a3215a3fffe2cf28f2046cec6e39ab27
     name: oligo
@@ -573,7 +573,7 @@ entries:
     version: 5.12.9
   - apiVersion: v2
     appVersion: 5.12.8
-    created: "2024-10-21T14:29:04.289196135Z"
+    created: "2025-03-11T16:33:21.90048158Z"
     description: A Helm chart for Kubernetes
     digest: d0af6e875b38268bab162f8640ffebdedb07a6929ef73eeccc88414376f3f512
     name: oligo
@@ -583,7 +583,7 @@ entries:
     version: 5.12.8
   - apiVersion: v2
     appVersion: 5.12.7
-    created: "2024-10-21T07:51:56.63299614Z"
+    created: "2025-03-11T16:33:21.896612815Z"
     description: A Helm chart for Kubernetes
     digest: 09bfcb5b3f54c87b2c93b3fe41838de3845a682ae5e6064d99d13101203756b0
     name: oligo
@@ -593,7 +593,7 @@ entries:
     version: 5.12.7
   - apiVersion: v2
     appVersion: 5.12.6
-    created: "2024-10-15T07:12:32.06577796Z"
+    created: "2025-03-11T16:33:21.892732411Z"
     description: A Helm chart for Kubernetes
     digest: 43fea8e40f58bd4a44f7136179dc6b0841954fea1c051abffafac918dcf6a0d7
     name: oligo
@@ -603,7 +603,7 @@ entries:
     version: 5.12.6
   - apiVersion: v2
     appVersion: 5.12.5
-    created: "2024-10-14T13:27:57.585143194Z"
+    created: "2025-03-11T16:33:21.889137488Z"
     description: A Helm chart for Kubernetes
     digest: 7efe38d3f1f7558641806ff56e9b6797f240a350de9be0f0a488e562a68a4be1
     name: oligo
@@ -613,7 +613,7 @@ entries:
     version: 5.12.5
   - apiVersion: v2
     appVersion: 5.12.4
-    created: "2024-10-08T15:09:47.459639573Z"
+    created: "2025-03-11T16:33:21.885699328Z"
     description: A Helm chart for Kubernetes
     digest: 5ec93b410ba145d585fa158cf887b54d105522067092ee073ccab932116b06dd
     name: oligo
@@ -623,7 +623,7 @@ entries:
     version: 5.12.4
   - apiVersion: v2
     appVersion: 5.12.3
-    created: "2024-10-06T14:16:30.131164702Z"
+    created: "2025-03-11T16:33:21.881187527Z"
     description: A Helm chart for Kubernetes
     digest: bd30f147566906aef3d9ef87c06190c12801307c70e509b97463377b0484262d
     name: oligo
@@ -633,7 +633,7 @@ entries:
     version: 5.12.3
   - apiVersion: v2
     appVersion: 5.12.2
-    created: "2024-10-01T14:30:22.949073887Z"
+    created: "2025-03-11T16:33:21.874233005Z"
     description: A Helm chart for Kubernetes
     digest: 50638634b34994212b953f22d103a8df5c260105bc6f91a1afb0bf3458a7f89b
     name: oligo
@@ -643,7 +643,7 @@ entries:
     version: 5.12.2
   - apiVersion: v2
     appVersion: 5.12.1
-    created: "2024-09-30T09:18:09.166112295Z"
+    created: "2025-03-11T16:33:21.863309637Z"
     description: A Helm chart for Kubernetes
     digest: 2f0b719a2dbdfd8e2f297ca79023879a92c80bb656f812cb81398f599a522f01
     name: oligo
@@ -653,7 +653,7 @@ entries:
     version: 5.12.1
   - apiVersion: v2
     appVersion: 5.12.0
-    created: "2024-09-25T06:34:59.194957304Z"
+    created: "2025-03-11T16:33:21.859938637Z"
     description: A Helm chart for Kubernetes
     digest: 0d20e87320224a1832b74a9fc591adeab7abedaabc53d11261ea0a091d3a2f44
     name: oligo
@@ -663,7 +663,7 @@ entries:
     version: 5.12.0
   - apiVersion: v2
     appVersion: 5.12.0-rc3
-    created: "2024-09-19T13:30:14.537938701Z"
+    created: "2025-03-11T16:33:21.856069312Z"
     description: A Helm chart for Kubernetes
     digest: c080d962a55e56cae5ca5e97242156fdffffb62fe1fd2e8ec68cca20e8edb988
     name: oligo
@@ -673,7 +673,7 @@ entries:
     version: 5.12.0-rc3
   - apiVersion: v2
     appVersion: 5.12.0-rc2
-    created: "2024-09-12T14:21:14.044088534Z"
+    created: "2025-03-11T16:33:21.850957626Z"
     description: A Helm chart for Kubernetes
     digest: 63ede8b89e4d1fe7b2a49ef12c63632260631090e5987cd50963f7349b11e341
     name: oligo
@@ -683,7 +683,7 @@ entries:
     version: 5.12.0-rc2
   - apiVersion: v2
     appVersion: 5.12.0-rc1
-    created: "2024-09-09T12:48:12.87402922Z"
+    created: "2025-03-11T16:33:21.84810614Z"
     description: A Helm chart for Kubernetes
     digest: 7bdbed381b26521e1b92d5a1efb59c98622559af2a1ae9532a37db7ac5a746cd
     name: oligo
@@ -693,7 +693,7 @@ entries:
     version: 5.12.0-rc1
   - apiVersion: v2
     appVersion: 5.12.0-rc0
-    created: "2024-09-05T08:01:51.710056747Z"
+    created: "2025-03-11T16:33:21.845456117Z"
     description: A Helm chart for Kubernetes
     digest: e60115a37fc6693515e7f05a943ea75683f954808b6d4c000e76fc0c6c1f6240
     name: oligo
@@ -703,7 +703,7 @@ entries:
     version: 5.12.0-rc0
   - apiVersion: v2
     appVersion: 5.11.0
-    created: "2024-08-22T08:42:49.341707122Z"
+    created: "2025-03-11T16:33:21.842671072Z"
     description: A Helm chart for Kubernetes
     digest: c6bd140f3fbfea7d2996f3cdd297376562294f44aa2a5ce0f60412d82c045991
     name: oligo
@@ -713,7 +713,7 @@ entries:
     version: 5.11.0
   - apiVersion: v2
     appVersion: 5.11.0-rc9
-    created: "2024-08-20T14:49:45.803619478Z"
+    created: "2025-03-11T16:33:21.839931717Z"
     description: A Helm chart for Kubernetes
     digest: a361b3209ff54d4d3aadc7db3471efb008b52822d68b47d35d62dc723f5ee39e
     name: oligo
@@ -723,7 +723,7 @@ entries:
     version: 5.11.0-rc9
   - apiVersion: v2
     appVersion: 5.11.0-rc8
-    created: "2024-08-19T14:25:20.148429248Z"
+    created: "2025-03-11T16:33:21.83687513Z"
     description: A Helm chart for Kubernetes
     digest: aaf3d74013009db6ad41845c0d424a1697ab7d7e3ea5eac07e32dc254a574275
     name: oligo
@@ -733,7 +733,7 @@ entries:
     version: 5.11.0-rc8
   - apiVersion: v2
     appVersion: 5.11.0-rc7
-    created: "2024-08-15T08:54:22.244364254Z"
+    created: "2025-03-11T16:33:21.83353705Z"
     description: A Helm chart for Kubernetes
     digest: 7f2b0a5d4081f5ddded2cb6c05cab0830f39de91e69324768c90154d911411f4
     name: oligo
@@ -743,7 +743,7 @@ entries:
     version: 5.11.0-rc7
   - apiVersion: v2
     appVersion: 5.11.0-rc6
-    created: "2024-08-15T08:28:52.22352653Z"
+    created: "2025-03-11T16:33:21.830687464Z"
     description: A Helm chart for Kubernetes
     digest: 38070162a1c72f0cc4c653afb94ab6a597d44dda9abb2b6e265a5a606a751d3d
     name: oligo
@@ -753,7 +753,7 @@ entries:
     version: 5.11.0-rc6
   - apiVersion: v2
     appVersion: 5.11.0-rc5
-    created: "2024-08-13T14:38:18.433552816Z"
+    created: "2025-03-11T16:33:21.827721347Z"
     description: A Helm chart for Kubernetes
     digest: 2920d281c0bde923d8f4f508105bfb8c79680947ef91dc9b1034b73b6b21721d
     name: oligo
@@ -763,7 +763,7 @@ entries:
     version: 5.11.0-rc5
   - apiVersion: v2
     appVersion: 5.11.0-rc4
-    created: "2024-08-08T14:38:42.724985611Z"
+    created: "2025-03-11T16:33:21.825133754Z"
     description: A Helm chart for Kubernetes
     digest: e98b61484adc050189af4529093022928bad3ce45b70a283ef99f8cf5d2679b5
     name: oligo
@@ -773,7 +773,7 @@ entries:
     version: 5.11.0-rc4
   - apiVersion: v2
     appVersion: 5.11.0-rc3
-    created: "2024-08-08T06:31:39.167689507Z"
+    created: "2025-03-11T16:33:21.82248544Z"
     description: A Helm chart for Kubernetes
     digest: b8054e646a8f52f61812f8b4231c64550ba2ba3e1681b23df4b8369dcb4c663e
     name: oligo
@@ -783,7 +783,7 @@ entries:
     version: 5.11.0-rc3
   - apiVersion: v2
     appVersion: 5.11.0-rc2
-    created: "2024-08-07T13:54:29.645714713Z"
+    created: "2025-03-11T16:33:21.818289563Z"
     description: A Helm chart for Kubernetes
     digest: 6995d9e79ae532427bf52ada1e181617917ed7ceb0390edc64a0b1087d279a04
     name: oligo
@@ -793,7 +793,7 @@ entries:
     version: 5.11.0-rc2
   - apiVersion: v2
     appVersion: 5.11.0-rc1
-    created: "2024-08-07T09:28:05.215188216Z"
+    created: "2025-03-11T16:33:21.815167105Z"
     description: A Helm chart for Kubernetes
     digest: 72a35266d7ad8ae6b94abc56b37853016eacfbc7cef5bef61e926ee68b755cc4
     name: oligo
@@ -803,7 +803,7 @@ entries:
     version: 5.11.0-rc1
   - apiVersion: v2
     appVersion: 5.11.0-rc0
-    created: "2024-08-06T12:28:47.485911853Z"
+    created: "2025-03-11T16:33:21.811899995Z"
     description: A Helm chart for Kubernetes
     digest: 1a806f2dc4f74d25a24718c63c8357eb145a229e8465790fb2e0f4b256a9342f
     name: oligo
@@ -813,7 +813,7 @@ entries:
     version: 5.11.0-rc0
   - apiVersion: v2
     appVersion: 5.10.5
-    created: "2024-08-13T13:18:07.836374824Z"
+    created: "2025-03-11T16:33:21.809229192Z"
     description: A Helm chart for Kubernetes
     digest: 3fe2a92d45ac0c53ec14b9965b9db8281c935cbaf3a66f9745f433e2b0a689a6
     name: oligo
@@ -823,7 +823,7 @@ entries:
     version: 5.10.5
   - apiVersion: v2
     appVersion: 5.10.4
-    created: "2024-08-08T14:36:08.580981203Z"
+    created: "2025-03-11T16:33:21.806660848Z"
     description: A Helm chart for Kubernetes
     digest: 5f279a303edf462ee5e01cb171cad9a9ca54f2b171e6e375c7a489ab0a194780
     name: oligo
@@ -833,7 +833,7 @@ entries:
     version: 5.10.4
   - apiVersion: v2
     appVersion: 5.10.3
-    created: "2024-08-07T14:43:08.983613028Z"
+    created: "2025-03-11T16:33:21.802194238Z"
     description: A Helm chart for Kubernetes
     digest: 287ec9146bec0d6777d5dd2335e48cd4cf1beebb13a7de9bfddb9eebe7375ada
     name: oligo
@@ -843,7 +843,7 @@ entries:
     version: 5.10.3
   - apiVersion: v2
     appVersion: 5.10.2
-    created: "2024-08-06T17:17:45.794080485Z"
+    created: "2025-03-11T16:33:21.799640495Z"
     description: A Helm chart for Kubernetes
     digest: b68ea6e255b6c6bdd179dce8af2fa9ec277f8170508761cfa42ec1ac974d27d0
     name: oligo
@@ -853,7 +853,7 @@ entries:
     version: 5.10.2
   - apiVersion: v2
     appVersion: 5.10.1
-    created: "2024-08-05T14:50:06.341480769Z"
+    created: "2025-03-11T16:33:21.79567427Z"
     description: A Helm chart for Kubernetes
     digest: 679ea1c6e85b160dcf174b1f248326865d71b17dddafaed211d6a6e7e28a35f6
     name: oligo
@@ -863,7 +863,7 @@ entries:
     version: 5.10.1
   - apiVersion: v2
     appVersion: 5.10.0
-    created: "2024-08-01T16:10:29.775654139Z"
+    created: "2025-03-11T16:33:21.79122773Z"
     description: A Helm chart for Kubernetes
     digest: 1fc5710a01f30b879d257e7a6c9efb35d43a6288851764f34a3921f43a15c6c8
     name: oligo
@@ -873,7 +873,7 @@ entries:
     version: 5.10.0
   - apiVersion: v2
     appVersion: 5.10.0-rc5
-    created: "2024-08-01T07:07:27.112983366Z"
+    created: "2025-03-11T16:33:21.788271064Z"
     description: A Helm chart for Kubernetes
     digest: c217e55685106b1d88b7b639192727f3583346de0ab72ae10aff38c50e40a9ad
     name: oligo
@@ -883,7 +883,7 @@ entries:
     version: 5.10.0-rc5
   - apiVersion: v2
     appVersion: 5.10.0-rc4
-    created: "2024-07-31T16:36:26.981092288Z"
+    created: "2025-03-11T16:33:21.785447468Z"
     description: A Helm chart for Kubernetes
     digest: 47f96a62c5261ee4829c27888a5393b2957d1d203e7b268415286b5c0a124c3f
     name: oligo
@@ -893,7 +893,7 @@ entries:
     version: 5.10.0-rc4
   - apiVersion: v2
     appVersion: 5.10.0-rc3
-    created: "2024-07-31T10:33:45.727082892Z"
+    created: "2025-03-11T16:33:21.779668326Z"
     description: A Helm chart for Kubernetes
     digest: efdba5d76b83c92f96c522cd4ee120baebe00147295545f3ce1a805e76af4841
     name: oligo
@@ -903,7 +903,7 @@ entries:
     version: 5.10.0-rc3
   - apiVersion: v2
     appVersion: 5.10.0-rc2
-    created: "2024-07-29T15:07:13.938594302Z"
+    created: "2025-03-11T16:33:21.775740491Z"
     description: A Helm chart for Kubernetes
     digest: 412ffa730ac82104b8b7e7950b6fe7b6e13461c9e1b1ab920a1f690a50b2c992
     name: oligo
@@ -913,7 +913,7 @@ entries:
     version: 5.10.0-rc2
   - apiVersion: v2
     appVersion: 5.10.0-rc1
-    created: "2024-07-28T08:49:19.371658457Z"
+    created: "2025-03-11T16:33:21.773275369Z"
     description: A Helm chart for Kubernetes
     digest: 194f1afbca0121f6dd9fae06050c7c7c90e38dd3340559976308f441eabe1649
     name: oligo
@@ -923,7 +923,7 @@ entries:
     version: 5.10.0-rc1
   - apiVersion: v2
     appVersion: 5.10.0-rc0
-    created: "2024-07-24T14:54:16.614711515Z"
+    created: "2025-03-11T16:33:21.770534784Z"
     description: A Helm chart for Kubernetes
     digest: 8bb2c8a41f4b83b5fe111fcd186a04fca54a376344e860fe6c96b128bcf34bdf
     name: oligo
@@ -933,7 +933,7 @@ entries:
     version: 5.10.0-rc0
   - apiVersion: v2
     appVersion: 5.9.3
-    created: "2024-07-23T14:03:31.766785986Z"
+    created: "2025-03-11T16:33:22.415521661Z"
     description: A Helm chart for Kubernetes
     digest: 2249626fc3755e48b1955ae52ca559c3c5d9be4e1ff74fc7a9c95f71d0b4938d
     name: oligo
@@ -943,7 +943,7 @@ entries:
     version: 5.9.3
   - apiVersion: v2
     appVersion: 5.9.2
-    created: "2024-07-23T11:02:17.412969581Z"
+    created: "2025-03-11T16:33:22.412764396Z"
     description: A Helm chart for Kubernetes
     digest: bb57ad241c823730ee6206a3b32a67f54cfcf9ff6b500bc4ad092135b0a805bb
     name: oligo
@@ -953,7 +953,7 @@ entries:
     version: 5.9.2
   - apiVersion: v2
     appVersion: 5.9.1
-    created: "2024-07-22T07:59:39.875779327Z"
+    created: "2025-03-11T16:33:22.40987406Z"
     description: A Helm chart for Kubernetes
     digest: c4a7184c56c598498d9900adfed8d1d5c71dbfd38824ef0a912239efa1af5ed9
     name: oligo
@@ -963,7 +963,7 @@ entries:
     version: 5.9.1
   - apiVersion: v2
     appVersion: 5.9.0
-    created: "2024-07-18T15:13:40.347391535Z"
+    created: "2025-03-11T16:33:22.405704263Z"
     description: A Helm chart for Kubernetes
     digest: 8304082c8ab2e13f6960eb1950d6f904e179cb26cfbd46a215db447ca3854934
     name: oligo
@@ -973,7 +973,7 @@ entries:
     version: 5.9.0
   - apiVersion: v2
     appVersion: 5.9.0-rc2
-    created: "2024-07-15T17:48:47.678859834Z"
+    created: "2025-03-11T16:33:22.392493354Z"
     description: A Helm chart for Kubernetes
     digest: e7f398c840158f9e2253254a6bd9ed34c479f295631045ab186a66a904e69014
     name: oligo
@@ -983,7 +983,7 @@ entries:
     version: 5.9.0-rc2
   - apiVersion: v2
     appVersion: 5.9.0-rc1
-    created: "2024-07-15T12:12:24.729592557Z"
+    created: "2025-03-11T16:33:22.388839511Z"
     description: A Helm chart for Kubernetes
     digest: c87d256846e273e19ea0167b1dedffbc7cbf500f33290bc3c3d3ecbabc8b7f61
     name: oligo
@@ -993,7 +993,7 @@ entries:
     version: 5.9.0-rc1
   - apiVersion: v2
     appVersion: 5.9.0-rc0
-    created: "2024-07-10T15:19:11.237130041Z"
+    created: "2025-03-11T16:33:22.385608193Z"
     description: A Helm chart for Kubernetes
     digest: dd0d07d340782fbfb9b2db96be0c665bcf2e566ff1c6cca130cc516113f08d31
     name: oligo
@@ -1003,7 +1003,7 @@ entries:
     version: 5.9.0-rc0
   - apiVersion: v2
     appVersion: 5.8.1
-    created: "2024-07-10T10:09:20.957100119Z"
+    created: "2025-03-11T16:33:22.382769727Z"
     description: A Helm chart for Kubernetes
     digest: acbb8b1a647650a02b5eafa4296e678bfa6ab80930c38c6d4ab5d917c4ae9617
     name: oligo
@@ -1013,7 +1013,7 @@ entries:
     version: 5.8.1
   - apiVersion: v2
     appVersion: 5.8.0
-    created: "2024-07-08T11:46:01.751066689Z"
+    created: "2025-03-11T16:33:22.380012352Z"
     description: A Helm chart for Kubernetes
     digest: 08b0053c70dfa2be6436be2a2ed04cda1674592832f7eabf73be1b689e7400eb
     name: oligo
@@ -1023,7 +1023,7 @@ entries:
     version: 5.8.0
   - apiVersion: v2
     appVersion: 5.8.0-rc5
-    created: "2024-07-08T09:53:01.525854623Z"
+    created: "2025-03-11T16:33:22.377043296Z"
     description: A Helm chart for Kubernetes
     digest: 7da9c65940a38ca7759d726b5322fcae3f407f6eb6aec2cce669adddd7b4a400
     name: oligo
@@ -1033,7 +1033,7 @@ entries:
     version: 5.8.0-rc5
   - apiVersion: v2
     appVersion: 5.8.0-rc4
-    created: "2024-07-08T07:50:21.853086504Z"
+    created: "2025-03-11T16:33:22.372515485Z"
     description: A Helm chart for Kubernetes
     digest: f04c2edd90ad2ffd05a3e38f2d5dff8c9a5f269f30be082721ad7c926adaa179
     name: oligo
@@ -1043,7 +1043,7 @@ entries:
     version: 5.8.0-rc4
   - apiVersion: v2
     appVersion: 5.8.0-rc3
-    created: "2024-07-07T14:38:17.783437993Z"
+    created: "2025-03-11T16:33:22.365021848Z"
     description: A Helm chart for Kubernetes
     digest: 115150236de3bdd4830bef2f7d60fde67410818321bc155adeda2f9366294e41
     name: oligo
@@ -1053,7 +1053,7 @@ entries:
     version: 5.8.0-rc3
   - apiVersion: v2
     appVersion: 5.8.0-rc2
-    created: "2024-07-07T11:09:02.322791516Z"
+    created: "2025-03-11T16:33:22.359320117Z"
     description: A Helm chart for Kubernetes
     digest: a9fefa0b85862b872e2708aee5619876d80edeb0acbab08bee20b5dd888864d9
     name: oligo
@@ -1063,7 +1063,7 @@ entries:
     version: 5.8.0-rc2
   - apiVersion: v2
     appVersion: 5.8.0-rc1
-    created: "2024-07-04T15:14:30.665549441Z"
+    created: "2025-03-11T16:33:22.350517218Z"
     description: A Helm chart for Kubernetes
     digest: ce4f630ac9e4c87cce87373f4ea359f6d0fdd5af6edf8326b321b3cccd3b33c6
     name: oligo
@@ -1073,7 +1073,7 @@ entries:
     version: 5.8.0-rc1
   - apiVersion: v2
     appVersion: 5.8.0-rc0
-    created: "2024-07-02T13:43:47.514750014Z"
+    created: "2025-03-11T16:33:22.347209498Z"
     description: A Helm chart for Kubernetes
     digest: 29eb9ee164f22604586d0f461edba7c3b1aa1eb1fa46f7193fee549fb2935575
     name: oligo
@@ -1083,7 +1083,7 @@ entries:
     version: 5.8.0-rc0
   - apiVersion: v2
     appVersion: 5.7.3
-    created: "2024-07-09T14:06:50.349330354Z"
+    created: "2025-03-11T16:33:22.343458354Z"
     description: A Helm chart for Kubernetes
     digest: 88c87522330a111169a23682327a463ea4b1892d150dcf950a3d97fb0abce7d9
     name: oligo
@@ -1093,7 +1093,7 @@ entries:
     version: 5.7.3
   - apiVersion: v2
     appVersion: 5.7.2
-    created: "2024-07-02T14:49:13.485208538Z"
+    created: "2025-03-11T16:33:22.338624961Z"
     description: A Helm chart for Kubernetes
     digest: e4d1116c49e9811bebeadef53920768d5f84f2e58227ebc410c1e8714b499245
     name: oligo
@@ -1103,7 +1103,7 @@ entries:
     version: 5.7.2
   - apiVersion: v2
     appVersion: 5.7.1
-    created: "2024-06-30T11:36:34.251956813Z"
+    created: "2025-03-11T16:33:22.33292588Z"
     description: A Helm chart for Kubernetes
     digest: d3ddf266943207cd264db55b8f3c4ad46cb2f64616df1742e19f8a00c8d9c1e3
     name: oligo
@@ -1113,7 +1113,7 @@ entries:
     version: 5.7.1
   - apiVersion: v2
     appVersion: 5.7.1-experimental0
-    created: "2024-06-30T14:59:34.911040691Z"
+    created: "2025-03-11T16:33:22.329893383Z"
     description: A Helm chart for Kubernetes
     digest: 205dcc820010c0eee4ce701306e7dd6680a884be8acf513e30a591bbc0e9cfbd
     name: oligo
@@ -1123,7 +1123,7 @@ entries:
     version: 5.7.1-experimental0
   - apiVersion: v2
     appVersion: 5.7.0
-    created: "2024-06-23T07:35:22.841466253Z"
+    created: "2025-03-11T16:33:22.326485342Z"
     description: A Helm chart for Kubernetes
     digest: 8cbbcf258f5f87482ce19c81d856061d1cc2f219c88276c09a41afeec433b2c5
     name: oligo
@@ -1133,7 +1133,7 @@ entries:
     version: 5.7.0
   - apiVersion: v2
     appVersion: 5.7.0-beta.7
-    created: "2024-06-20T13:02:05.656583097Z"
+    created: "2025-03-11T16:33:22.323538006Z"
     description: A Helm chart for Kubernetes
     digest: 16c54fd4b70d2b751ee34c8ff427372ea99e7057569469c3baac6d49ad1f167e
     name: oligo
@@ -1143,7 +1143,7 @@ entries:
     version: 5.7.0-beta.7
   - apiVersion: v2
     appVersion: 5.7.0-beta.6
-    created: "2024-06-19T13:44:42.651644745Z"
+    created: "2025-03-11T16:33:22.319931133Z"
     description: A Helm chart for Kubernetes
     digest: 68c425457a0882e9d447633b27b3050dfcf3377431802f62ff264de9530255d7
     name: oligo
@@ -1153,7 +1153,7 @@ entries:
     version: 5.7.0-beta.6
   - apiVersion: v2
     appVersion: 5.7.0-beta.5
-    created: "2024-06-19T09:37:49.099353616Z"
+    created: "2025-03-11T16:33:22.314250212Z"
     description: A Helm chart for Kubernetes
     digest: 97e9468cd4845484fa37bbc023f21dc800d2816e1472975ebd89be2a42210adb
     name: oligo
@@ -1163,7 +1163,7 @@ entries:
     version: 5.7.0-beta.5
   - apiVersion: v2
     appVersion: 5.7.0-beta.4
-    created: "2024-06-17T08:35:35.844931017Z"
+    created: "2025-03-11T16:33:22.311669889Z"
     description: A Helm chart for Kubernetes
     digest: 68ec814b0444a6e7898dfcf9d695035640a47cf7961beb5d37491d899237276d
     name: oligo
@@ -1173,7 +1173,7 @@ entries:
     version: 5.7.0-beta.4
   - apiVersion: v2
     appVersion: 5.7.0-beta.3
-    created: "2024-06-13T13:48:48.692245818Z"
+    created: "2025-03-11T16:33:22.308765163Z"
     description: A Helm chart for Kubernetes
     digest: 24738ed9c7fb82af3615444c24f2021bd6b5085e838446d589fe48f8c0535373
     name: oligo
@@ -1183,7 +1183,7 @@ entries:
     version: 5.7.0-beta.3
   - apiVersion: v2
     appVersion: 5.7.0-beta.2
-    created: "2024-06-11T12:57:23.417759412Z"
+    created: "2025-03-11T16:33:22.30624994Z"
     description: A Helm chart for Kubernetes
     digest: 318f6bbfa0de6278bc67ae5f8070526f8661d1049662199ce58badc4e9d7322b
     name: oligo
@@ -1193,7 +1193,7 @@ entries:
     version: 5.7.0-beta.2
   - apiVersion: v2
     appVersion: 5.7.0-beta.1
-    created: "2024-06-10T14:30:48.081438663Z"
+    created: "2025-03-11T16:33:22.303661067Z"
     description: A Helm chart for Kubernetes
     digest: 2e447534ddb7ce8ff6cdf415e73ece8cf3b2c5e19512932c7413d6e3d55d0b8f
     name: oligo
@@ -1203,7 +1203,7 @@ entries:
     version: 5.7.0-beta.1
   - apiVersion: v2
     appVersion: 5.7.0-beta.0
-    created: "2024-06-10T14:30:48.079507291Z"
+    created: "2025-03-11T16:33:22.298807734Z"
     description: A Helm chart for Kubernetes
     digest: d50652c00223a26476865a6348eab9d6d03182c5dbefd38e88fb4a1eb3dc4d90
     name: oligo
@@ -1213,7 +1213,7 @@ entries:
     version: 5.7.0-beta.0
   - apiVersion: v2
     appVersion: 5.6.2
-    created: "2024-06-16T15:26:58.278509479Z"
+    created: "2025-03-11T16:33:22.295745156Z"
     description: A Helm chart for Kubernetes
     digest: 584e827d15d3eac360c53b7fe290280f2f6e219a84df52c56ae6a807d267c28d
     name: oligo
@@ -1223,7 +1223,7 @@ entries:
     version: 5.6.2
   - apiVersion: v2
     appVersion: 5.6.1
-    created: "2024-06-10T14:30:48.077602644Z"
+    created: "2025-03-11T16:33:22.29283963Z"
     description: A Helm chart for Kubernetes
     digest: ba0aa786a5257d243eb2d478db9de8e8db4cef1abb0ef3cb97dc5d5e6436ed46
     name: oligo
@@ -1233,7 +1233,7 @@ entries:
     version: 5.6.1
   - apiVersion: v2
     appVersion: 5.6.1-beta.0
-    created: "2024-06-10T14:30:48.075735849Z"
+    created: "2025-03-11T16:33:22.288598982Z"
     description: A Helm chart for Kubernetes
     digest: bb7e67ae663fa7fb6dffe468b826efd300735f9910ffe1eadc7fa6bc9fd7a16c
     name: oligo
@@ -1243,7 +1243,7 @@ entries:
     version: 5.6.1-beta.0
   - apiVersion: v2
     appVersion: 5.6.0
-    created: "2024-06-10T14:30:48.073954482Z"
+    created: "2025-03-11T16:33:22.285332733Z"
     description: A Helm chart for Kubernetes
     digest: 2066a3bd42787871ac1c5a2ba700186b0fbab3c0ab6fae14bfc3c9e82635a339
     name: oligo
@@ -1253,7 +1253,7 @@ entries:
     version: 5.6.0
   - apiVersion: v2
     appVersion: 5.6.0-falco-beta
-    created: "2024-06-10T14:30:48.071444078Z"
+    created: "2025-03-11T16:33:22.282405157Z"
     description: A Helm chart for Kubernetes
     digest: 113b31eed139768f2e31b31251246e8c88ae897247f16e134fd5efedb1a6ba4e
     name: oligo
@@ -1263,7 +1263,7 @@ entries:
     version: 5.6.0-falco-beta
   - apiVersion: v2
     appVersion: 5.6.0-beta.4
-    created: "2024-06-10T14:30:48.069171569Z"
+    created: "2025-03-11T16:33:22.276752346Z"
     description: A Helm chart for Kubernetes
     digest: e444c6f9468c261fa16523c8e82db5e9d16126ccf61a1a4c7b4ddfb6b28601de
     name: oligo
@@ -1273,7 +1273,7 @@ entries:
     version: 5.6.0-beta.4
   - apiVersion: v2
     appVersion: 5.6.0-beta.3
-    created: "2024-06-10T14:30:48.067310497Z"
+    created: "2025-03-11T16:33:22.267495153Z"
     description: A Helm chart for Kubernetes
     digest: 578baac5688ed9848defced528363dc05d5ab45ec2e57d4c49a91a41c68e9b8c
     name: oligo
@@ -1283,7 +1283,7 @@ entries:
     version: 5.6.0-beta.3
   - apiVersion: v2
     appVersion: 5.6.0-beta.2
-    created: "2024-06-10T14:30:48.065446881Z"
+    created: "2025-03-11T16:33:22.25498103Z"
     description: A Helm chart for Kubernetes
     digest: 518797692b889f3c6b5e61aded5c568531eada23759071e5ff191569c8f16b52
     name: oligo
@@ -1293,7 +1293,7 @@ entries:
     version: 5.6.0-beta.2
   - apiVersion: v2
     appVersion: 5.6.0-beta.1
-    created: "2024-06-10T14:30:48.063588405Z"
+    created: "2025-03-11T16:33:22.252477088Z"
     description: A Helm chart for Kubernetes
     digest: 49b543b2306aefc00025a350f524e162f71d4576e75b8248f7525d699e3b1a3a
     name: oligo
@@ -1303,7 +1303,7 @@ entries:
     version: 5.6.0-beta.1
   - apiVersion: v2
     appVersion: 5.6.0-beta.0
-    created: "2024-06-10T14:30:48.06143354Z"
+    created: "2025-03-11T16:33:22.245892329Z"
     description: A Helm chart for Kubernetes
     digest: f7b43fcf88ac92deecb764b0a95b04ff62e48a11fcc68b0d0a054fee45d81aea
     name: oligo
@@ -1313,7 +1313,7 @@ entries:
     version: 5.6.0-beta.0
   - apiVersion: v2
     appVersion: 5.5.1
-    created: "2024-06-10T14:30:48.058917419Z"
+    created: "2025-03-11T16:33:22.240250338Z"
     description: A Helm chart for Kubernetes
     digest: 54484ee670c368c0e84265b27e9e28ca5c81176bc111278050c4b60b6b6e3376
     name: oligo
@@ -1323,7 +1323,7 @@ entries:
     version: 5.5.1
   - apiVersion: v2
     appVersion: 5.5.1-beta0
-    created: "2024-06-10T14:30:48.056569455Z"
+    created: "2025-03-11T16:33:22.237950068Z"
     description: A Helm chart for Kubernetes
     digest: 0d4429b1e8a85fe932aa278433fa5c68eec62234a20f066bdc7621eb5378348e
     name: oligo
@@ -1333,7 +1333,7 @@ entries:
     version: 5.5.1-beta0
   - apiVersion: v2
     appVersion: 5.5.1-beta.1
-    created: "2024-06-10T14:30:48.054614086Z"
+    created: "2025-03-11T16:33:22.235632457Z"
     description: A Helm chart for Kubernetes
     digest: d4c0ebaf6ae411afd7009bfc7f2b8620368fb33649d77017973c783ddf7d8e3e
     name: oligo
@@ -1343,7 +1343,7 @@ entries:
     version: 5.5.1-beta.1
   - apiVersion: v2
     appVersion: 5.5.0-beta.1-kind-support
-    created: "2024-06-10T14:30:48.048857496Z"
+    created: "2025-03-11T16:33:22.228330851Z"
     description: A Helm chart for Kubernetes
     digest: 51d58e8a9bb67313fa80bc42d68291aa03b567eb58be4130970603325f1eca3b
     name: oligo
@@ -1353,7 +1353,7 @@ entries:
     version: 5.5.0-beta.1-kind-support
   - apiVersion: v2
     appVersion: 5.5.0-beta.2
-    created: "2024-06-10T14:30:48.052824379Z"
+    created: "2025-03-11T16:33:22.233045224Z"
     description: A Helm chart for Kubernetes
     digest: bdd354eabc9021df9f24ee2b91528b11a8ac436ed068536e933208dda5ae49ed
     name: oligo
@@ -1363,7 +1363,7 @@ entries:
     version: 5.5.0-beta.2
   - apiVersion: v2
     appVersion: 5.5.0-beta.1
-    created: "2024-06-10T14:30:48.050881197Z"
+    created: "2025-03-11T16:33:22.230715233Z"
     description: A Helm chart for Kubernetes
     digest: da114b5a943291c3d5d30bc743d6dec353e5ae1ebe3c711476a553432ede718a
     name: oligo
@@ -1373,7 +1373,7 @@ entries:
     version: 5.5.0-beta.1
   - apiVersion: v2
     appVersion: 5.4.1
-    created: "2024-06-10T14:30:48.046772682Z"
+    created: "2025-03-11T16:33:22.225799329Z"
     description: A Helm chart for Kubernetes
     digest: ccb8725452b752ec105ff15b5cb86ef853ca6820030572b8ff7c9ee875a971ae
     name: oligo
@@ -1383,7 +1383,7 @@ entries:
     version: 5.4.1
   - apiVersion: v2
     appVersion: 5.4.0
-    created: "2024-06-10T14:30:48.043715647Z"
+    created: "2025-03-11T16:33:22.219423082Z"
     description: A Helm chart for Kubernetes
     digest: 6362063f4cfec4c038e25a47fab6e9da35b728ffdb95b4510ee93494505d497e
     name: oligo
@@ -1393,7 +1393,7 @@ entries:
     version: 5.4.0
   - apiVersion: v2
     appVersion: 5.4.0-beta.5
-    created: "2024-06-10T14:30:48.041976962Z"
+    created: "2025-03-11T16:33:22.216419235Z"
     description: A Helm chart for Kubernetes
     digest: cbc04a437c794e4beae458b67dd8854038a699fdf65029fa7d7dbc69625f094c
     name: oligo
@@ -1403,7 +1403,7 @@ entries:
     version: 5.4.0-beta.5
   - apiVersion: v2
     appVersion: 5.4.0-beta.4
-    created: "2024-06-10T14:30:48.040274331Z"
+    created: "2025-03-11T16:33:22.213310827Z"
     description: A Helm chart for Kubernetes
     digest: 31a829408be1e36f5b5e81539bb7d9817ace51c2ac868c652be2ae21e74d4d61
     name: oligo
@@ -1413,7 +1413,7 @@ entries:
     version: 5.4.0-beta.4
   - apiVersion: v2
     appVersion: 5.4.0-beta.3
-    created: "2024-06-10T14:30:48.038442424Z"
+    created: "2025-03-11T16:33:22.211002566Z"
     description: A Helm chart for Kubernetes
     digest: c76864c1d36c81cc3de831aa62d39879618ff1382f3ed610425ef5f6b6ea3661
     name: oligo
@@ -1423,7 +1423,7 @@ entries:
     version: 5.4.0-beta.3
   - apiVersion: v2
     appVersion: 5.4.0-beta.2
-    created: "2024-06-10T14:30:48.036170181Z"
+    created: "2025-03-11T16:33:22.208565994Z"
     description: A Helm chart for Kubernetes
     digest: c960960c309b05158dd3bac7cd7f542375d25b26eba74a1b3c6bbd683dc861dd
     name: oligo
@@ -1433,7 +1433,7 @@ entries:
     version: 5.4.0-beta.2
   - apiVersion: v2
     appVersion: 5.4.0-beta.1
-    created: "2024-06-10T14:30:48.034434466Z"
+    created: "2025-03-11T16:33:22.206140422Z"
     description: A Helm chart for Kubernetes
     digest: 4f442fefbec42f2bfb99181d8f760218227915e9652c0dc1eafff064f7d76a0b
     name: oligo
@@ -1443,7 +1443,7 @@ entries:
     version: 5.4.0-beta.1
   - apiVersion: v2
     appVersion: 5.4.0-beta.0
-    created: "2024-06-10T14:30:48.03063352Z"
+    created: "2025-03-11T16:33:22.203488639Z"
     description: A Helm chart for Kubernetes
     digest: ab5013817e4ef133d302984f226f3ab09c96f246fa5eb8c18a329e21fe4a3256
     name: oligo
@@ -1453,7 +1453,7 @@ entries:
     version: 5.4.0-beta.0
   - apiVersion: v2
     appVersion: 5.3.9
-    created: "2024-06-10T14:30:48.028901667Z"
+    created: "2025-03-11T16:33:22.198493704Z"
     description: A Helm chart for Kubernetes
     digest: fcb1b09358f634160dd8295cad4e7d11101dc5ec291cc2309af3ca4e123f1f90
     name: oligo
@@ -1463,7 +1463,7 @@ entries:
     version: 5.3.9
   - apiVersion: v2
     appVersion: 5.3.9-beta.2
-    created: "2024-06-10T14:30:48.027046264Z"
+    created: "2025-03-11T16:33:22.196166653Z"
     description: A Helm chart for Kubernetes
     digest: 2fc8873d4bcf373a2b1d78b87e47226856dfbb10d97e7e078f6c7b586ba6357c
     name: oligo
@@ -1473,7 +1473,7 @@ entries:
     version: 5.3.9-beta.2
   - apiVersion: v2
     appVersion: 5.3.9-beta.1
-    created: "2024-06-10T14:30:48.025296579Z"
+    created: "2025-03-11T16:33:22.193823462Z"
     description: A Helm chart for Kubernetes
     digest: c556dc294292e0d8d29aad97c65bb773e94cea9181247e6ebd3c9058feec6660
     name: oligo
@@ -1483,7 +1483,7 @@ entries:
     version: 5.3.9-beta.1
   - apiVersion: v2
     appVersion: 5.3.8
-    created: "2024-06-10T14:30:48.023444625Z"
+    created: "2025-03-11T16:33:22.19141682Z"
     description: A Helm chart for Kubernetes
     digest: c399bc2537a96393ee03de75bf629fedbb98558a7a84431cffa5cf8c9f15178e
     name: oligo
@@ -1493,7 +1493,7 @@ entries:
     version: 5.3.8
   - apiVersion: v2
     appVersion: 5.3.7
-    created: "2024-06-10T14:30:48.021748122Z"
+    created: "2025-03-11T16:33:22.189090429Z"
     description: A Helm chart for Kubernetes
     digest: b6b4b08f8aed39873a74f30329bf75e589eea7290a287dcb2d0e493d56ea02e9
     name: oligo
@@ -1503,7 +1503,7 @@ entries:
     version: 5.3.7
   - apiVersion: v2
     appVersion: 5.3.7-debug
-    created: "2024-06-10T14:30:48.01892272Z"
+    created: "2025-03-11T16:33:22.186588937Z"
     description: A Helm chart for Kubernetes
     digest: 4bf2a00c6ad974c71ad426d163d71ff1de8dc20f473f8d5d758c3b1d55f72142
     name: oligo
@@ -1513,7 +1513,7 @@ entries:
     version: 5.3.7-debug
   - apiVersion: v2
     appVersion: 5.3.6
-    created: "2024-06-10T14:30:48.017271831Z"
+    created: "2025-03-11T16:33:22.18361245Z"
     description: A Helm chart for Kubernetes
     digest: 42d3c344af37c76e700320b82294653882bf22558eb556c5f5585b18061402cf
     name: oligo
@@ -1523,7 +1523,7 @@ entries:
     version: 5.3.6
   - apiVersion: v2
     appVersion: 5.3.5
-    created: "2024-06-10T14:30:48.015442023Z"
+    created: "2025-03-11T16:33:22.179013759Z"
     description: A Helm chart for Kubernetes
     digest: 0fc85f4054f9dd4b6f2bb989e8ed28f82b36364c93013dfe3fd507f7b6c81d3a
     name: oligo
@@ -1533,7 +1533,7 @@ entries:
     version: 5.3.5
   - apiVersion: v2
     appVersion: 5.3.4
-    created: "2024-06-10T14:30:48.013716739Z"
+    created: "2025-03-11T16:33:22.176369275Z"
     description: A Helm chart for Kubernetes
     digest: d50839663658ca672b2fdccd0bca049fd4ba4e393dd9a05b39b096dab419d060
     name: oligo
@@ -1543,7 +1543,7 @@ entries:
     version: 5.3.4
   - apiVersion: v2
     appVersion: 5.3.3
-    created: "2024-06-10T14:30:48.012034418Z"
+    created: "2025-03-11T16:33:22.173383818Z"
     description: A Helm chart for Kubernetes
     digest: 28726d2aedd6706bb0a3c42ee03b98c792b3a52bc33b2bc1d8c151173b87e0c1
     name: oligo
@@ -1553,7 +1553,7 @@ entries:
     version: 5.3.3
   - apiVersion: v2
     appVersion: 5.3.2
-    created: "2024-06-10T14:30:48.00966258Z"
+    created: "2025-03-11T16:33:22.170664554Z"
     description: A Helm chart for Kubernetes
     digest: a7cf92ab3f71565a73d788dd2e3e5919c9193856b893b7526de8362ac1cd62d5
     name: oligo
@@ -1563,7 +1563,7 @@ entries:
     version: 5.3.2
   - apiVersion: v2
     appVersion: 5.3.1
-    created: "2024-06-10T14:30:48.006344674Z"
+    created: "2025-03-11T16:33:22.168179082Z"
     description: A Helm chart for Kubernetes
     digest: 34c72610c45cabd29a24c359a4ad4ef1ac650eb2759c37f49823b61f86e15234
     name: oligo
@@ -1573,7 +1573,7 @@ entries:
     version: 5.3.1
   - apiVersion: v2
     appVersion: 5.3.0
-    created: "2024-06-10T14:30:48.004595516Z"
+    created: "2025-03-11T16:33:22.165436197Z"
     description: A Helm chart for Kubernetes
     digest: 0fc1f0442e85c1876a7f64b789c7a67d6e1ae38db70579dfc1a4da2fa16bc32a
     name: oligo
@@ -1583,7 +1583,7 @@ entries:
     version: 5.3.0
   - apiVersion: v2
     appVersion: 5.3.0-beta.2
-    created: "2024-06-10T14:30:48.002759579Z"
+    created: "2025-03-11T16:33:22.161941196Z"
     description: A Helm chart for Kubernetes
     digest: b98c52f48585eeff86ccf50473b5d982aca88552ed6cea96529d9555bc44b225
     name: oligo
@@ -1593,7 +1593,7 @@ entries:
     version: 5.3.0-beta.2
   - apiVersion: v2
     appVersion: 5.3.0-beta.1
-    created: "2024-06-10T14:30:48.001001406Z"
+    created: "2025-03-11T16:33:22.1579016Z"
     description: A Helm chart for Kubernetes
     digest: 0d7ee28a89dc4c21590d02cc662f15fc62bfcadecaa1eaf7b3d29023042e810d
     name: oligo
@@ -1603,7 +1603,7 @@ entries:
     version: 5.3.0-beta.1
   - apiVersion: v2
     appVersion: 5.3.0-beta.0
-    created: "2024-06-10T14:30:47.99918148Z"
+    created: "2025-03-11T16:33:22.151811835Z"
     description: A Helm chart for Kubernetes
     digest: d66292a15856eb25431aae2d5197f79b3c705970962b19fe13c28965ac154641
     name: oligo
@@ -1613,7 +1613,7 @@ entries:
     version: 5.3.0-beta.0
   - apiVersion: v2
     appVersion: 5.2.1
-    created: "2024-06-10T14:30:47.997407911Z"
+    created: "2025-03-11T16:33:22.149132561Z"
     description: A Helm chart for Kubernetes
     digest: 6ddf84460a5870260e9cc0f59631f8a58f21018e528a2ca1fafc96aa5b7a2e03
     name: oligo
@@ -1623,7 +1623,7 @@ entries:
     version: 5.2.1
   - apiVersion: v2
     appVersion: 5.2.1-beta.4
-    created: "2024-06-10T14:30:47.994014122Z"
+    created: "2025-03-11T16:33:22.146233555Z"
     description: A Helm chart for Kubernetes
     digest: 6bd7ce917a9ef27c55abcac0e761d3a882fd0a516c918a7a720964152bedccd5
     name: oligo
@@ -1633,7 +1633,7 @@ entries:
     version: 5.2.1-beta.4
   - apiVersion: v2
     appVersion: 5.2.1-beta.3
-    created: "2024-06-10T14:30:47.99226133Z"
+    created: "2025-03-11T16:33:22.143337259Z"
     description: A Helm chart for Kubernetes
     digest: 10f258a4f78fbfc9149b626b3a9eee930786554d4d486ab8d7ba778790fc745a
     name: oligo
@@ -1643,7 +1643,7 @@ entries:
     version: 5.2.1-beta.3
   - apiVersion: v2
     appVersion: 5.2.1-beta.2
-    created: "2024-06-10T14:30:47.99033195Z"
+    created: "2025-03-11T16:33:22.140528954Z"
     description: A Helm chart for Kubernetes
     digest: 8b21a86929cb7f69adce7f4defbe72d97bde2a0ae22155797ced0565c45775fb
     name: oligo
@@ -1653,7 +1653,7 @@ entries:
     version: 5.2.1-beta.2
   - apiVersion: v2
     appVersion: 5.2.1-beta.1
-    created: "2024-06-10T14:30:47.98870473Z"
+    created: "2025-03-11T16:33:22.136836721Z"
     description: A Helm chart for Kubernetes
     digest: d2a78eb9e326b9ba2c5bc25c4f3b9456a12047949c372a5700604efcd28ddb9f
     name: oligo
@@ -1663,7 +1663,7 @@ entries:
     version: 5.2.1-beta.1
   - apiVersion: v2
     appVersion: 5.2.0-ruby-beta
-    created: "2024-06-10T14:30:47.986941732Z"
+    created: "2025-03-11T16:33:22.132773084Z"
     description: A Helm chart for Kubernetes
     digest: 74171f1312d7246a5914c94b40f436ede4d2f3a7df0ec81d26ff0950954576fc
     name: oligo
@@ -1673,7 +1673,7 @@ entries:
     version: 5.2.0-ruby-beta
   - apiVersion: v2
     appVersion: 5.2.0-beta.5
-    created: "2024-06-10T14:30:47.985289653Z"
+    created: "2025-03-11T16:33:22.13005627Z"
     description: A Helm chart for Kubernetes
     digest: 81cb6ee78103ff39f902a2eb7be67786bb27d221bdaab68196c9053f4156b073
     name: oligo
@@ -1683,7 +1683,7 @@ entries:
     version: 5.2.0-beta.5
   - apiVersion: v2
     appVersion: 5.2.0-beta.4
-    created: "2024-06-10T14:30:47.982276809Z"
+    created: "2025-03-11T16:33:22.127174584Z"
     description: A Helm chart for Kubernetes
     digest: d43814768a5ae1619beaffe0ac2cc2140b0c1238eefb2ad6e4808c171c18c282
     name: oligo
@@ -1693,7 +1693,7 @@ entries:
     version: 5.2.0-beta.4
   - apiVersion: v2
     appVersion: 5.2.0-beta.3
-    created: "2024-06-10T14:30:47.980337253Z"
+    created: "2025-03-11T16:33:22.124207207Z"
     description: A Helm chart for Kubernetes
     digest: 1e288af9f36263e65d85677e9a7996533e5410534e4b0e080bb1566b94507c76
     name: oligo
@@ -1703,7 +1703,7 @@ entries:
     version: 5.2.0-beta.3
   - apiVersion: v2
     appVersion: 5.2.0-beta.2
-    created: "2024-06-10T14:30:47.978324635Z"
+    created: "2025-03-11T16:33:22.119449145Z"
     description: A Helm chart for Kubernetes
     digest: fdaeb85d5222e431d804bebad2441db48fa188a3422f2bc7f32dbe0c079a665a
     name: oligo
@@ -1713,7 +1713,7 @@ entries:
     version: 5.2.0-beta.2
   - apiVersion: v2
     appVersion: 5.2.0-beta.1
-    created: "2024-06-10T14:30:47.976651836Z"
+    created: "2025-03-11T16:33:22.115717711Z"
     description: A Helm chart for Kubernetes
     digest: 720d6acac236c341bc8791a9ee5619f620d6ea0feb1ed7be87479987640e12bd
     name: oligo
@@ -1723,7 +1723,7 @@ entries:
     version: 5.2.0-beta.1
   - apiVersion: v2
     appVersion: 5.2.0-beta.0
-    created: "2024-06-10T14:30:47.974923658Z"
+    created: "2025-03-11T16:33:22.111353902Z"
     description: A Helm chart for Kubernetes
     digest: 7393196f6bc3808b0515fe611e04e18790f3201790f225a205b0702dd071324a
     name: oligo
@@ -1733,7 +1733,7 @@ entries:
     version: 5.2.0-beta.0
   - apiVersion: v2
     appVersion: 5.1.9
-    created: "2024-06-10T14:30:47.973325371Z"
+    created: "2025-03-11T16:33:21.767395356Z"
     description: A Helm chart for Kubernetes
     digest: 0556e4ac6b6444fdb2b0c9664d32221354892381f6fba78c07e024e66180e915
     name: oligo
@@ -1743,7 +1743,7 @@ entries:
     version: 5.1.9
   - apiVersion: v2
     appVersion: 5.1.8-beta.1
-    created: "2024-06-10T14:30:47.968816653Z"
+    created: "2025-03-11T16:33:21.760288222Z"
     description: A Helm chart for Kubernetes
     digest: dfa45648ab34f9dd2dcb8bae68975e391089b719b88b2834052384812f2fe94c
     name: oligo
@@ -1753,7 +1753,7 @@ entries:
     version: 5.1.8-beta.1
   - apiVersion: v2
     appVersion: 5.1.8-beta
-    created: "2024-06-10T14:30:47.971657341Z"
+    created: "2025-03-11T16:33:21.765153986Z"
     description: A Helm chart for Kubernetes
     digest: 08b490e967c498f1e0f820cf0c0121825a43ff9af824f47fcd0241e13fc9fb40
     name: oligo
@@ -1763,7 +1763,7 @@ entries:
     version: 5.1.8-beta
   - apiVersion: v2
     appVersion: 5.1.7
-    created: "2024-06-10T14:30:47.967232945Z"
+    created: "2025-03-11T16:33:21.757390436Z"
     description: A Helm chart for Kubernetes
     digest: 50e9f11951b3d85a0f17415c5c7da78e296ff7bd88529539052e78ab8dbca3c5
     name: oligo
@@ -1773,7 +1773,7 @@ entries:
     version: 5.1.7
   - apiVersion: v2
     appVersion: 5.1.6
-    created: "2024-06-10T14:30:47.965716211Z"
+    created: "2025-03-11T16:33:21.753885735Z"
     description: A Helm chart for Kubernetes
     digest: 562e0bc49f8566dee5c9e73e4a8718efc4d8b3cf4161b011e394897486e12860
     name: oligo
@@ -1783,7 +1783,7 @@ entries:
     version: 5.1.6
   - apiVersion: v2
     appVersion: 5.1.5
-    created: "2024-06-10T14:30:47.964171033Z"
+    created: "2025-03-11T16:33:21.750909298Z"
     description: A Helm chart for Kubernetes
     digest: 400213b67e385ecc0ab71fee314fc8379cbb4faec892a3a1dc31c1a4f778e6ed
     name: oligo
@@ -1793,7 +1793,7 @@ entries:
     version: 5.1.5
   - apiVersion: v2
     appVersion: 5.1.4
-    created: "2024-06-10T14:30:47.962513645Z"
+    created: "2025-03-11T16:33:21.748261194Z"
     description: A Helm chart for Kubernetes
     digest: 9bafadf14bc5ef34b8dcda8f398812a1d12107300f040695b1d576007a983667
     name: oligo
@@ -1803,7 +1803,7 @@ entries:
     version: 5.1.4
   - apiVersion: v2
     appVersion: 5.1.4-beta.7
-    created: "2024-06-10T14:30:47.957968122Z"
+    created: "2025-03-11T16:33:21.739808139Z"
     description: A Helm chart for Kubernetes
     digest: 1a01ee5854509a7c350c1acf4930fe3fa3d9ea216e69301a27dbc1b7d0a9cc89
     name: oligo
@@ -1813,7 +1813,7 @@ entries:
     version: 5.1.4-beta.7
   - apiVersion: v2
     appVersion: 5.1.4-beta.6
-    created: "2024-06-10T14:30:47.956257115Z"
+    created: "2025-03-11T16:33:21.737641199Z"
     description: A Helm chart for Kubernetes
     digest: 280c85ef4506a7b32b952cf80e7524f1ef1771008e6723ef6836b8ba8c17dfd4
     name: oligo
@@ -1823,7 +1823,7 @@ entries:
     version: 5.1.4-beta.6
   - apiVersion: v2
     appVersion: 5.1.4-beta.5
-    created: "2024-06-10T14:30:47.954600217Z"
+    created: "2025-03-11T16:33:21.7354763Z"
     description: A Helm chart for Kubernetes
     digest: 44ff8425449154976f1581ffdc16557240a230db2c29a0a27d0b3be5a33c72b4
     name: oligo
@@ -1833,7 +1833,7 @@ entries:
     version: 5.1.4-beta.5
   - apiVersion: v2
     appVersion: 5.1.4-beta.4
-    created: "2024-06-10T14:30:47.952958564Z"
+    created: "2025-03-11T16:33:21.733370141Z"
     description: A Helm chart for Kubernetes
     digest: 287b9a4a74cb066d7c37629c8f4da3a80e2f646c3801163b6b9805f7a1035c39
     name: oligo
@@ -1843,7 +1843,7 @@ entries:
     version: 5.1.4-beta.4
   - apiVersion: v2
     appVersion: 5.1.4-beta.3
-    created: "2024-06-10T14:30:47.951175252Z"
+    created: "2025-03-11T16:33:21.731215652Z"
     description: A Helm chart for Kubernetes
     digest: 242e70fab2d13a74693b3e8c68bee0dc22c49eb1c0c53e7925fba73fb6a90856
     name: oligo
@@ -1853,7 +1853,7 @@ entries:
     version: 5.1.4-beta.3
   - apiVersion: v2
     appVersion: 5.1.4-beta.2
-    created: "2024-06-10T14:30:47.94949582Z"
+    created: "2025-03-11T16:33:21.729024602Z"
     description: A Helm chart for Kubernetes
     digest: 205acda70a960526840f51f14066f6c0a654ad6d5fd914a424c51b731cd4c775
     name: oligo
@@ -1863,7 +1863,7 @@ entries:
     version: 5.1.4-beta.2
   - apiVersion: v2
     appVersion: 5.1.4-beta
-    created: "2024-06-10T14:30:47.960731792Z"
+    created: "2025-03-11T16:33:21.745822423Z"
     description: A Helm chart for Kubernetes
     digest: 48727c5cc1c8e94ff2c848d0dd4a02689ca8ac3081ecfccea6046119fed8de75
     name: oligo
@@ -1873,7 +1873,7 @@ entries:
     version: 5.1.4-beta
   - apiVersion: v2
     appVersion: 5.1.3
-    created: "2024-06-10T14:30:47.947529485Z"
+    created: "2025-03-11T16:33:21.724989146Z"
     description: A Helm chart for Kubernetes
     digest: 20c8693efd1b63092ca0fe34c1638b33e4c505cc069bd548b2ef7f793f932afc
     name: oligo
@@ -1883,7 +1883,7 @@ entries:
     version: 5.1.3
   - apiVersion: v2
     appVersion: 5.1.3-beta.2
-    created: "2024-06-10T14:30:47.944983868Z"
+    created: "2025-03-11T16:33:21.722842016Z"
     description: A Helm chart for Kubernetes
     digest: 3b049c99a05e7bb35429320ead2ebf183bfd225677c370d4e6b99a3c0e0b90c3
     name: oligo
@@ -1893,7 +1893,7 @@ entries:
     version: 5.1.3-beta.2
   - apiVersion: v2
     appVersion: 5.1.3-beta.1
-    created: "2024-06-10T14:30:47.943273348Z"
+    created: "2025-03-11T16:33:21.720689907Z"
     description: A Helm chart for Kubernetes
     digest: 7d3f37be634df7f6f6a99eb8464dde52fccd707bcae6dc8d07eb5bdca068b38d
     name: oligo
@@ -1903,7 +1903,7 @@ entries:
     version: 5.1.3-beta.1
   - apiVersion: v2
     appVersion: 5.1.2
-    created: "2024-06-10T14:30:47.939284961Z"
+    created: "2025-03-11T16:33:21.718491067Z"
     description: A Helm chart for Kubernetes
     digest: 0edb82f70d8723fe6517ab2dfd75f5254ddcb93ee153cee332bf4f3a137c6fae
     name: oligo
@@ -1913,7 +1913,7 @@ entries:
     version: 5.1.2
   - apiVersion: v2
     appVersion: 5.1.1
-    created: "2024-06-10T14:30:47.937680573Z"
+    created: "2025-03-11T16:33:21.716260007Z"
     description: A Helm chart for Kubernetes
     digest: 0c98ee2db2e4efdea3fa78cdbea77d1c249da364ab144317c272ab878ce3e8fd
     name: oligo
@@ -1923,7 +1923,7 @@ entries:
     version: 5.1.1
   - apiVersion: v2
     appVersion: 5.1.0
-    created: "2024-06-10T14:30:47.936028377Z"
+    created: "2025-03-11T16:33:21.713997277Z"
     description: A Helm chart for Kubernetes
     digest: 92e58a4dd336abb17257ea35633d8511f71e3725745d803a9d02660413242c45
     name: oligo
@@ -1933,7 +1933,7 @@ entries:
     version: 5.1.0
   - apiVersion: v2
     appVersion: 5.0.3
-    created: "2024-06-10T14:30:47.934423268Z"
+    created: "2025-03-11T16:33:21.710634767Z"
     description: A Helm chart for Kubernetes
     digest: 6c99dd7d377b06465c3308f74658c1209ac6212c45da35c24a51ece393fd3946
     name: oligo
@@ -1943,7 +1943,7 @@ entries:
     version: 5.0.3
   - apiVersion: v2
     appVersion: v5.0.2
-    created: "2024-06-10T14:30:47.931737493Z"
+    created: "2025-03-11T16:33:21.708424837Z"
     description: A Helm chart for Kubernetes
     digest: cf5e63f6939bd2a8c2dd79c1930ee761ecac804615c27c0ba1666c7b3ed73eb0
     name: oligo
@@ -1953,7 +1953,7 @@ entries:
     version: 5.0.2
   - apiVersion: v2
     appVersion: v5.0.1
-    created: "2024-06-10T14:30:47.929429334Z"
+    created: "2025-03-11T16:33:21.706245678Z"
     description: A Helm chart for Kubernetes
     digest: db6d52626352fcfdce5de128f4e1142db90c2aa881c89aecd3931c0653f28966
     name: oligo
@@ -1963,7 +1963,7 @@ entries:
     version: 5.0.1
   - apiVersion: v2
     appVersion: v5.0.0
-    created: "2024-06-10T14:30:47.927065077Z"
+    created: "2025-03-11T16:33:21.703636704Z"
     description: A Helm chart for Kubernetes
     digest: 99261fef51e1a5614a21b75546029847546ba42fdfda0d9da29e3f315e1ab0cb
     name: oligo
@@ -1973,7 +1973,7 @@ entries:
     version: 5.0.0
   - apiVersion: v2
     appVersion: 4.4.5
-    created: "2024-06-10T14:30:47.924770206Z"
+    created: "2025-03-11T16:33:21.701143742Z"
     description: A Helm chart for Kubernetes
     digest: 57700f40507ead6c921184385684069bc3950f19be5efa34b1357901f6959436
     name: oligo
@@ -1983,7 +1983,7 @@ entries:
     version: 4.4.5
   - apiVersion: v2
     appVersion: 4.4.4
-    created: "2024-06-10T14:30:47.922604979Z"
+    created: "2025-03-11T16:33:21.698853651Z"
     description: A Helm chart for Kubernetes
     digest: bb6836f715b8416a647b294fc248ba12118c48ab255d95f271c03d1114f7842d
     name: oligo
@@ -1993,7 +1993,7 @@ entries:
     version: 4.4.4
   - apiVersion: v2
     appVersion: 4.4.3
-    created: "2024-06-10T14:30:47.920490912Z"
+    created: "2025-03-11T16:33:21.695121198Z"
     description: A Helm chart for Kubernetes
     digest: 8b1074ed4915a21eb7a1398430e7869ebbb1e9f7c88420ed87cd38df19fc6649
     name: oligo
@@ -2003,7 +2003,7 @@ entries:
     version: 4.4.3
   - apiVersion: v2
     appVersion: 4.4.2
-    created: "2024-06-10T14:30:47.91714098Z"
+    created: "2025-03-11T16:33:21.691850048Z"
     description: A Helm chart for Kubernetes
     digest: 66141d346758040cf5dffd286f84d2faab2f97cfcba89f0c53a93b65542005f0
     name: oligo
@@ -2013,7 +2013,7 @@ entries:
     version: 4.4.2
   - apiVersion: v2
     appVersion: 4.4.1
-    created: "2024-06-10T14:30:47.915038708Z"
+    created: "2025-03-11T16:33:21.687091806Z"
     description: A Helm chart for Kubernetes
     digest: 0aa539d8250fc1f6081ca22c42cdf6e8b864f20b7a7f7a8d4d469a993d1adf6d
     name: oligo
@@ -2023,7 +2023,7 @@ entries:
     version: 4.4.1
   - apiVersion: v2
     appVersion: 4.4.0
-    created: "2024-06-10T14:30:47.912957237Z"
+    created: "2025-03-11T16:33:21.684565323Z"
     description: A Helm chart for Kubernetes
     digest: d89b0249929a127d9d5569b6b591a0d76cb2bb9c58f1e602755f8cff99fea846
     name: oligo
@@ -2033,7 +2033,7 @@ entries:
     version: 4.4.0
   - apiVersion: v2
     appVersion: 4.3.1
-    created: "2024-06-10T14:30:47.910894337Z"
+    created: "2025-03-11T16:33:21.682135761Z"
     description: A Helm chart for Kubernetes
     digest: e9aeaaedb7071479562d892c516da06de729137fa26f741c86d5fa1855cd606a
     name: oligo
@@ -2043,7 +2043,7 @@ entries:
     version: 4.3.1
   - apiVersion: v2
     appVersion: 4.3.0
-    created: "2024-06-10T14:30:47.908994857Z"
+    created: "2025-03-11T16:33:21.679703829Z"
     description: A Helm chart for Kubernetes
     digest: 84d18c016a40ee1ced107684d173a755ab94e2ac6dc81decd4772a1da5c86fcd
     name: oligo
@@ -2053,7 +2053,7 @@ entries:
     version: 4.3.0
   - apiVersion: v2
     appVersion: 4.2.9
-    created: "2024-06-10T14:30:47.906988246Z"
+    created: "2025-03-11T16:33:21.675948356Z"
     description: A Helm chart for Kubernetes
     digest: d40706f66fc59f3ea6bac08654e030c10f7b259dc9419425e9dd080871dee50a
     name: oligo
@@ -2063,7 +2063,7 @@ entries:
     version: 4.2.9
   - apiVersion: v2
     appVersion: 4.2.8
-    created: "2024-06-10T14:30:47.903859362Z"
+    created: "2025-03-11T16:33:21.673563184Z"
     description: A Helm chart for Kubernetes
     digest: 493bb1f5604c19342d2c9da99e0e4093bac181daba8671bcee90b01006909ce2
     name: oligo
@@ -2073,7 +2073,7 @@ entries:
     version: 4.2.8
   - apiVersion: v2
     appVersion: 4.2.7
-    created: "2024-06-10T14:30:47.901862167Z"
+    created: "2025-03-11T16:33:21.668060925Z"
     description: A Helm chart for Kubernetes
     digest: 21285ec3db8891e5c3acd88f77c1c15703468b4cc4bec3e631a5432a1cc2dfb3
     name: oligo
@@ -2083,7 +2083,7 @@ entries:
     version: 4.2.7
   - apiVersion: v2
     appVersion: 4.2.6
-    created: "2024-06-10T14:30:47.899885451Z"
+    created: "2025-03-11T16:33:21.665658023Z"
     description: A Helm chart for Kubernetes
     digest: ac4247267438886d8476478ca608b20810234f2d5a204c3c751bbdfe3d4c0ce2
     name: oligo
@@ -2093,7 +2093,7 @@ entries:
     version: 4.2.6
   - apiVersion: v2
     appVersion: 4.2.5
-    created: "2024-06-10T14:30:47.897178408Z"
+    created: "2025-03-11T16:33:21.662973569Z"
     description: A Helm chart for Kubernetes
     digest: 2fe9f7d6173f6ba8b11a48c7238370c8caa4b4779a2db474c482b70cb81c0930
     name: oligo
@@ -2103,7 +2103,7 @@ entries:
     version: 4.2.5
   - apiVersion: v2
     appVersion: 4.2.4
-    created: "2024-06-10T14:30:47.895060842Z"
+    created: "2025-03-11T16:33:21.655390141Z"
     description: A Helm chart for Kubernetes
     digest: 153e3b1f5c0212630260054cb9de90bf7f98da6698d512d87fd0b301ff6d682b
     name: oligo
@@ -2113,7 +2113,7 @@ entries:
     version: 4.2.4
   - apiVersion: v2
     appVersion: 4.2.3
-    created: "2024-06-10T14:30:47.892758697Z"
+    created: "2025-03-11T16:33:21.652535786Z"
     description: A Helm chart for Kubernetes
     digest: c422a88e63912686017700dae71f085caae6e2ab7287646c8d9af63f7ee7d817
     name: oligo
@@ -2123,7 +2123,7 @@ entries:
     version: 4.2.3
   - apiVersion: v2
     appVersion: 4.2.2
-    created: "2024-06-10T14:30:47.889715487Z"
+    created: "2025-03-11T16:33:21.646599162Z"
     description: A Helm chart for Kubernetes
     digest: 4ccc88cbc3256b398e13c1287be83f9f4c3d368e7f591a2a3f3e30ed3aab77c8
     name: oligo
@@ -2133,7 +2133,7 @@ entries:
     version: 4.2.2
   - apiVersion: v2
     appVersion: 4.2.1
-    created: "2024-06-10T14:30:47.887074516Z"
+    created: "2025-03-11T16:33:21.644716155Z"
     description: A Helm chart for Kubernetes
     digest: e06fc61da66bcfbdc900b4dd38eba0f4316fd706957c68317048f596ba524a89
     name: oligo
@@ -2143,7 +2143,7 @@ entries:
     version: 4.2.1
   - apiVersion: v2
     appVersion: 4.2.0
-    created: "2024-06-10T14:30:47.884960009Z"
+    created: "2025-03-11T16:33:21.642793778Z"
     description: A Helm chart for Kubernetes
     digest: 0d609ec5dd94c5da2bc1d152f38573fe3737957d59cd7c55639fa06eb33fcb48
     name: oligo
@@ -2153,7 +2153,7 @@ entries:
     version: 4.2.0
   - apiVersion: v2
     appVersion: 4.1.6
-    created: "2024-06-10T14:30:47.882909574Z"
+    created: "2025-03-11T16:33:21.640844611Z"
     description: A Helm chart for Kubernetes
     digest: 8a01bc3cc9a53010ed99374f05c352f7451275d4988779eb5abcef8b51c425b0
     name: oligo
@@ -2163,7 +2163,7 @@ entries:
     version: 4.1.6
   - apiVersion: v2
     appVersion: 4.1.5
-    created: "2024-06-10T14:30:47.880362335Z"
+    created: "2025-03-11T16:33:21.637481921Z"
     description: A Helm chart for Kubernetes
     digest: 9e752edd880a498dcac822eddf688ac5e4d70279aca07e19fd91aa2db1c6cf7c
     name: oligo
@@ -2173,7 +2173,7 @@ entries:
     version: 4.1.5
   - apiVersion: v2
     appVersion: 4.1.4
-    created: "2024-06-10T14:30:47.877474097Z"
+    created: "2025-03-11T16:33:21.630234866Z"
     description: A Helm chart for Kubernetes
     digest: f60f2992b8f25d41bec0d90e0e11b928448ae82959fe6eb7fe10e4028e31eea3
     name: oligo
@@ -2183,7 +2183,7 @@ entries:
     version: 4.1.4
   - apiVersion: v2
     appVersion: 4.1.3
-    created: "2024-06-10T14:30:47.873895945Z"
+    created: "2025-03-11T16:33:21.626744974Z"
     description: A Helm chart for Kubernetes
     digest: 9142cbd044ca650aedcc8b7fc335a9b71ea939746f72abaf78d0424dd1b42200
     name: oligo
@@ -2193,7 +2193,7 @@ entries:
     version: 4.1.3
   - apiVersion: v2
     appVersion: 4.1.2
-    created: "2024-06-10T14:30:47.871329403Z"
+    created: "2025-03-11T16:33:21.623445635Z"
     description: A Helm chart for Kubernetes
     digest: fd74201ba7cffada30095a1bf85442e3477923281497920224b964541df47caa
     name: oligo
@@ -2203,7 +2203,7 @@ entries:
     version: 4.1.2
   - apiVersion: v2
     appVersion: 4.1.1
-    created: "2024-06-10T14:30:47.86872979Z"
+    created: "2025-03-11T16:33:21.620306787Z"
     description: A Helm chart for Kubernetes
     digest: 2ef59e397c88a5cda7079e47895af13c66b5cb2dd64bc081d04c247831566fec
     name: oligo
@@ -2213,7 +2213,7 @@ entries:
     version: 4.1.1
   - apiVersion: v2
     appVersion: 4.1.0
-    created: "2024-06-10T14:30:47.86572237Z"
+    created: "2025-03-11T16:33:21.616845036Z"
     description: A Helm chart for Kubernetes
     digest: e66865669e1a3cdf8b2a207d93e1638a2febcbf6fa7940849f84865c675c5cd7
     name: oligo
@@ -2223,7 +2223,7 @@ entries:
     version: 4.1.0
   - apiVersion: v2
     appVersion: 4.0.13
-    created: "2024-06-10T14:30:47.83307496Z"
+    created: "2025-03-11T16:33:21.576226701Z"
     description: A Helm chart for Kubernetes
     digest: 69e4c8cd7eba40c5ff306e82d0d52b7632c2ad6d5f9c24dd21bd9541458ce0a4
     name: oligo
@@ -2233,7 +2233,7 @@ entries:
     version: 4.0.13
   - apiVersion: v2
     appVersion: 4.0.12
-    created: "2024-06-10T14:30:47.82913948Z"
+    created: "2025-03-11T16:33:21.56937106Z"
     description: A Helm chart for Kubernetes
     digest: 17cb724791fce5436807c1d7393d87e5a3e354fc53f1c7df66e5810a6627044e
     name: oligo
@@ -2243,7 +2243,7 @@ entries:
     version: 4.0.12
   - apiVersion: v2
     appVersion: 4.0.11
-    created: "2024-06-10T14:30:47.823434756Z"
+    created: "2025-03-11T16:33:21.566200751Z"
     description: A Helm chart for Kubernetes
     digest: 5852566209a7f0083ef7ba82bbe909bbf18532ca21f97d09c62c52628f437972
     name: oligo
@@ -2253,7 +2253,7 @@ entries:
     version: 4.0.11
   - apiVersion: v2
     appVersion: 4.0.11-onprem
-    created: "2024-06-10T14:30:47.820667475Z"
+    created: "2025-03-11T16:33:21.563029903Z"
     description: A Helm chart for Kubernetes
     digest: f1d5c177efca04438ecc15a799009b54363d6fb6a1d848f8127121aa1426dd96
     name: oligo
@@ -2263,7 +2263,7 @@ entries:
     version: 4.0.11-onprem
   - apiVersion: v2
     appVersion: 4.0.11-docker
-    created: "2024-06-10T14:30:47.807525602Z"
+    created: "2025-03-11T16:33:21.55932591Z"
     description: A Helm chart for Kubernetes
     digest: 07e5086d5e73e26c4791c73ebe87d6bfb5a7411136e4c2d2907f1e8af15d8f17
     name: oligo
@@ -2273,7 +2273,7 @@ entries:
     version: 4.0.11-docker
   - apiVersion: v2
     appVersion: 4.0.10
-    created: "2024-06-10T14:30:47.805121742Z"
+    created: "2025-03-11T16:33:21.554689388Z"
     description: A Helm chart for Kubernetes
     digest: 7bb59361577b8ac8c084a9b213bb652162bed70a819aaf19fe50492bda579a0d
     name: oligo
@@ -2283,7 +2283,7 @@ entries:
     version: 4.0.10
   - apiVersion: v2
     appVersion: 4.0.9
-    created: "2024-06-10T14:30:47.861917585Z"
+    created: "2025-03-11T16:33:21.612600107Z"
     description: A Helm chart for Kubernetes
     digest: 8a0c7fbd7c53e59c58bfe00d45fccaebcf78e3d7a7f6af57b5b399de4ea0609b
     name: oligo
@@ -2293,7 +2293,7 @@ entries:
     version: 4.0.9
   - apiVersion: v2
     appVersion: 4.0.8
-    created: "2024-06-10T14:30:47.859430737Z"
+    created: "2025-03-11T16:33:21.60848217Z"
     description: A Helm chart for Kubernetes
     digest: dbeb946401382f3a18e4b1ce46d99b33c0ef78083e97822fb1db5fa0248691fe
     name: oligo
@@ -2303,7 +2303,7 @@ entries:
     version: 4.0.8
   - apiVersion: v2
     appVersion: 4.0.7
-    created: "2024-06-10T14:30:47.857075467Z"
+    created: "2025-03-11T16:33:21.604763157Z"
     description: A Helm chart for Kubernetes
     digest: 6fc0c353d8786d624acdc7df6a3ea21c7ea552b0bc56bdec8eaf8db25a0f722e
     name: oligo
@@ -2313,7 +2313,7 @@ entries:
     version: 4.0.7
   - apiVersion: v2
     appVersion: 4.0.6
-    created: "2024-06-10T14:30:47.85439972Z"
+    created: "2025-03-11T16:33:21.601068924Z"
     description: A Helm chart for Kubernetes
     digest: 932893aa6fe907cc14b49ab852f1e9504ab8b73d3dd02d386c49d3a0222e3e9e
     name: oligo
@@ -2323,7 +2323,7 @@ entries:
     version: 4.0.6
   - apiVersion: v2
     appVersion: 4.0.5
-    created: "2024-06-10T14:30:47.848701085Z"
+    created: "2025-03-11T16:33:21.597436771Z"
     description: A Helm chart for Kubernetes
     digest: 64c920124561f94a65680f76c0afa776f0e7aae4f2c6819523107a85a7c50284
     name: oligo
@@ -2333,7 +2333,7 @@ entries:
     version: 4.0.5
   - apiVersion: v2
     appVersion: 4.0.4
-    created: "2024-06-10T14:30:47.842855699Z"
+    created: "2025-03-11T16:33:21.588861955Z"
     description: A Helm chart for Kubernetes
     digest: aca256f27e4cad49833031a6671c83a4de773c98780d67690ef84a45730dc76a
     name: oligo
@@ -2343,7 +2343,7 @@ entries:
     version: 4.0.4
   - apiVersion: v2
     appVersion: 4.0.3
-    created: "2024-06-10T14:30:47.839837407Z"
+    created: "2025-03-11T16:33:21.584687847Z"
     description: A Helm chart for Kubernetes
     digest: 9c9104ef36627d215083f5c9898ebfb0380eacbeaa029c39ac88ffcdb8944b09
     name: oligo
@@ -2353,7 +2353,7 @@ entries:
     version: 4.0.3
   - apiVersion: v2
     appVersion: 4.0.2
-    created: "2024-06-10T14:30:47.83743174Z"
+    created: "2025-03-11T16:33:21.581307897Z"
     description: A Helm chart for Kubernetes
     digest: a810383d084f05a9705eab0ecaea0995a9657c85828b985df49d453b223948ae
     name: oligo
@@ -2363,7 +2363,7 @@ entries:
     version: 4.0.2
   - apiVersion: v2
     appVersion: 4.0.1
-    created: "2024-06-10T14:30:47.802605533Z"
+    created: "2025-03-11T16:33:21.548658804Z"
     description: A Helm chart for Kubernetes
     digest: 81b433d8d07efbfb265ed94b74f6a07a40a37ab6a274f848846417c1b1341772
     name: oligo
@@ -2373,7 +2373,7 @@ entries:
     version: 4.0.1
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2024-06-10T14:30:47.798017639Z"
+    created: "2025-03-11T16:33:21.545327694Z"
     description: A Helm chart for Kubernetes
     digest: c215147bc1d37d1a7679e47825bf5b724b2b0e99941a2bc33976dcfcbfd751cf
     name: oligo
@@ -2383,7 +2383,7 @@ entries:
     version: 4.0.0
   - apiVersion: v2
     appVersion: 3.6.3
-    created: "2024-06-10T14:30:47.792931204Z"
+    created: "2025-03-11T16:33:21.541649381Z"
     description: A Helm chart for Kubernetes
     digest: 320d50eb0e33e08d04016de4ca3350e25b8118f796c38ba84925e1ce69d32afd
     name: oligo
@@ -2393,7 +2393,7 @@ entries:
     version: 3.6.3
   - apiVersion: v2
     appVersion: 3.6.2
-    created: "2024-06-10T14:30:47.790634451Z"
+    created: "2025-03-11T16:33:21.538296901Z"
     description: A Helm chart for Kubernetes
     digest: 154dd4a58e1a13a7a554b22e810b9aa944301c03a1b32f51351b31f0dcac4be6
     name: oligo
@@ -2403,7 +2403,7 @@ entries:
     version: 3.6.2
   - apiVersion: v2
     appVersion: 3.6.1
-    created: "2024-06-10T14:30:47.788284421Z"
+    created: "2025-03-11T16:33:21.533862031Z"
     description: A Helm chart for Kubernetes
     digest: 9692cc412cf301f64fd4650684bb086799bd26af6b3dfb59ae93042b55254415
     name: oligo
@@ -2413,7 +2413,7 @@ entries:
     version: 3.6.1
   - apiVersion: v2
     appVersion: 3.6.0
-    created: "2024-06-10T14:30:47.785727309Z"
+    created: "2025-03-11T16:33:21.531311728Z"
     description: A Helm chart for Kubernetes
     digest: 00cbcc28f2c319160d3bf896a737d417e21b69acfde2d69c20b4d71da5c78c2f
     name: oligo
@@ -2423,7 +2423,7 @@ entries:
     version: 3.6.0
   - apiVersion: v2
     appVersion: 3.5.23
-    created: "2024-06-10T14:30:47.752441451Z"
+    created: "2025-03-11T16:33:21.491204508Z"
     description: A Helm chart for Kubernetes
     digest: fec55c306d9a376ca35d860d9801ebc9f0f182e0205f3c4446f7845c225fa35a
     name: oligo
@@ -2433,7 +2433,7 @@ entries:
     version: 3.5.23
   - apiVersion: v2
     appVersion: 3.5.22
-    created: "2024-06-10T14:30:47.750178296Z"
+    created: "2025-03-11T16:33:21.488533194Z"
     description: A Helm chart for Kubernetes
     digest: 3dd8fe1eea85ec407b52d4f6dab58a86eb924eaee65395721b174f4aaad8b28a
     name: oligo
@@ -2443,7 +2443,7 @@ entries:
     version: 3.5.22
   - apiVersion: v2
     appVersion: 3.5.21
-    created: "2024-06-10T14:30:47.746011759Z"
+    created: "2025-03-11T16:33:21.482881584Z"
     description: A Helm chart for Kubernetes
     digest: faba0b9e1da83162d712bf04643d7e31f2e227b0f069a06ec5e573b89c46c529
     name: oligo
@@ -2453,7 +2453,7 @@ entries:
     version: 3.5.21
   - apiVersion: v2
     appVersion: 3.5.20
-    created: "2024-06-10T14:30:47.743133511Z"
+    created: "2025-03-11T16:33:21.476681648Z"
     description: A Helm chart for Kubernetes
     digest: 78f955dd211d894a0a773499ec0a997a514b0ede4e36503f38bd703832be3d13
     name: oligo
@@ -2463,7 +2463,7 @@ entries:
     version: 3.5.20
   - apiVersion: v2
     appVersion: 3.5.19
-    created: "2024-06-10T14:30:47.736981565Z"
+    created: "2025-03-11T16:33:21.468899448Z"
     description: A Helm chart for Kubernetes
     digest: 6e8a6deef9edf0026c8e7ec3ee6f2fe65ae6ab0e35dc42fdc9070d00ac17929c
     name: oligo
@@ -2473,7 +2473,7 @@ entries:
     version: 3.5.19
   - apiVersion: v2
     appVersion: 3.5.18
-    created: "2024-06-10T14:30:47.734430797Z"
+    created: "2025-03-11T16:33:21.465964492Z"
     description: A Helm chart for Kubernetes
     digest: c51f61430e1351604eac0b9fe2d24fab34cedcf615ceac34975a96c9ced387d2
     name: oligo
@@ -2483,7 +2483,7 @@ entries:
     version: 3.5.18
   - apiVersion: v2
     appVersion: 3.5.17
-    created: "2024-06-10T14:30:47.731042967Z"
+    created: "2025-03-11T16:33:21.462234858Z"
     description: A Helm chart for Kubernetes
     digest: cb9d87b62af8e4a7af8d19506a8f9d191485e3994e0dd7f40eba53cdedeb1a77
     name: oligo
@@ -2493,7 +2493,7 @@ entries:
     version: 3.5.17
   - apiVersion: v2
     appVersion: 3.5.16
-    created: "2024-06-10T14:30:47.728365034Z"
+    created: "2025-03-11T16:33:21.459882987Z"
     description: A Helm chart for Kubernetes
     digest: afc0353be09b0a933328f9406460d19fa41d1680190dcade7b5e93dc2e30d9aa
     name: oligo
@@ -2503,7 +2503,7 @@ entries:
     version: 3.5.16
   - apiVersion: v2
     appVersion: 3.5.15
-    created: "2024-06-10T14:30:47.726182196Z"
+    created: "2025-03-11T16:33:21.457418855Z"
     description: A Helm chart for Kubernetes
     digest: 3b8c9c6b8205b306900be2344fb173082e1ede3a8347dceb84db85a694de7ad7
     name: oligo
@@ -2513,7 +2513,7 @@ entries:
     version: 3.5.15
   - apiVersion: v2
     appVersion: 3.5.14
-    created: "2024-06-10T14:30:47.724255171Z"
+    created: "2025-03-11T16:33:21.454505349Z"
     description: A Helm chart for Kubernetes
     digest: 58050566a4a5e2a9b9b0fb94d6d41b2ab7b894ba1090f155ff7c6622dc41f79f
     name: oligo
@@ -2523,7 +2523,7 @@ entries:
     version: 3.5.14
   - apiVersion: v2
     appVersion: 3.5.13
-    created: "2024-06-10T14:30:47.722321653Z"
+    created: "2025-03-11T16:33:21.452127598Z"
     description: A Helm chart for Kubernetes
     digest: f276e685aada3d68331f404898e78c7963b392960cb88c35a0c37d7aee6a3d6e
     name: oligo
@@ -2533,7 +2533,7 @@ entries:
     version: 3.5.13
   - apiVersion: v2
     appVersion: 3.5.12
-    created: "2024-06-10T14:30:47.720272975Z"
+    created: "2025-03-11T16:33:21.438095072Z"
     description: A Helm chart for Kubernetes
     digest: 9a66805dac47229a8213b73f34bf54f70ed5fb23314ee9c34f734976a038fd4f
     name: oligo
@@ -2543,7 +2543,7 @@ entries:
     version: 3.5.12
   - apiVersion: v2
     appVersion: 3.5.11
-    created: "2024-06-10T14:30:47.717779859Z"
+    created: "2025-03-11T16:33:21.435841802Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2558,7 +2558,7 @@ entries:
     version: 3.5.11
   - apiVersion: v2
     appVersion: 3.5.10
-    created: "2024-06-10T14:30:47.714035391Z"
+    created: "2025-03-11T16:33:21.429588266Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2573,7 +2573,7 @@ entries:
     version: 3.5.10
   - apiVersion: v2
     appVersion: 3.5.9
-    created: "2024-06-10T14:30:47.782145518Z"
+    created: "2025-03-11T16:33:21.528787516Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2588,7 +2588,7 @@ entries:
     version: 3.5.9
   - apiVersion: v2
     appVersion: 3.5.8
-    created: "2024-06-10T14:30:47.778453495Z"
+    created: "2025-03-11T16:33:21.524754409Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2603,7 +2603,7 @@ entries:
     version: 3.5.8
   - apiVersion: v2
     appVersion: 3.5.7
-    created: "2024-06-10T14:30:47.775004086Z"
+    created: "2025-03-11T16:33:21.518894737Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2618,7 +2618,7 @@ entries:
     version: 3.5.7
   - apiVersion: v2
     appVersion: 3.5.6
-    created: "2024-06-10T14:30:47.770706098Z"
+    created: "2025-03-11T16:33:21.512712781Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2633,7 +2633,7 @@ entries:
     version: 3.5.6
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2024-06-10T14:30:47.765358924Z"
+    created: "2025-03-11T16:33:21.507697826Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2648,7 +2648,7 @@ entries:
     version: 3.5.5
   - apiVersion: v2
     appVersion: 3.5.4
-    created: "2024-06-10T14:30:47.761485479Z"
+    created: "2025-03-11T16:33:21.502442519Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2663,7 +2663,7 @@ entries:
     version: 3.5.4
   - apiVersion: v2
     appVersion: 3.5.3
-    created: "2024-06-10T14:30:47.756431719Z"
+    created: "2025-03-11T16:33:21.496040372Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2678,7 +2678,7 @@ entries:
     version: 3.5.3
   - apiVersion: v2
     appVersion: 3.5.2
-    created: "2024-06-10T14:30:47.740711756Z"
+    created: "2025-03-11T16:33:21.474223076Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2693,7 +2693,7 @@ entries:
     version: 3.5.2
   - apiVersion: v2
     appVersion: 3.5.1
-    created: "2024-06-10T14:30:47.710659134Z"
+    created: "2025-03-11T16:33:21.420918748Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2708,7 +2708,7 @@ entries:
     version: 3.5.1
   - apiVersion: v2
     appVersion: 3.5.0
-    created: "2024-06-10T14:30:47.707257874Z"
+    created: "2025-03-11T16:33:21.413227769Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2723,7 +2723,7 @@ entries:
     version: 3.5.0
   - apiVersion: v2
     appVersion: 3.4.8
-    created: "2024-06-10T14:30:47.701786028Z"
+    created: "2025-03-11T16:33:21.408509126Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2738,7 +2738,7 @@ entries:
     version: 3.4.8
   - apiVersion: v2
     appVersion: 3.4.7
-    created: "2024-06-10T14:30:47.697633825Z"
+    created: "2025-03-11T16:33:21.403078238Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2753,7 +2753,7 @@ entries:
     version: 3.4.7
   - apiVersion: v2
     appVersion: 3.4.6
-    created: "2024-06-10T14:30:47.693999736Z"
+    created: "2025-03-11T16:33:21.396032384Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2768,7 +2768,7 @@ entries:
     version: 3.4.6
   - apiVersion: v2
     appVersion: 3.4.5
-    created: "2024-06-10T14:30:47.690497509Z"
+    created: "2025-03-11T16:33:21.38658801Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -2783,7 +2783,7 @@ entries:
     version: 3.4.5
   - apiVersion: v2
     appVersion: 3.4.4
-    created: "2024-06-10T14:30:47.681858716Z"
+    created: "2025-03-11T16:33:21.381850757Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2797,7 +2797,7 @@ entries:
     version: 3.4.4
   - apiVersion: v2
     appVersion: 3.4.3
-    created: "2024-06-10T14:30:47.677927211Z"
+    created: "2025-03-11T16:33:21.376237627Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2811,7 +2811,7 @@ entries:
     version: 3.4.3
   - apiVersion: v2
     appVersion: 3.4.2
-    created: "2024-06-10T14:30:47.674104682Z"
+    created: "2025-03-11T16:33:21.36993513Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2825,7 +2825,7 @@ entries:
     version: 3.4.2
   - apiVersion: v2
     appVersion: 3.4.1
-    created: "2024-06-10T14:30:47.667303147Z"
+    created: "2025-03-11T16:33:21.363311861Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2839,7 +2839,7 @@ entries:
     version: 3.4.1
   - apiVersion: v2
     appVersion: 3.4.0
-    created: "2024-06-10T14:30:47.662350191Z"
+    created: "2025-03-11T16:33:21.357427258Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2853,7 +2853,7 @@ entries:
     version: 3.4.0
   - apiVersion: v2
     appVersion: 3.3.6
-    created: "2024-06-10T14:30:47.658805834Z"
+    created: "2025-03-11T16:33:21.346219498Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2867,7 +2867,7 @@ entries:
     version: 3.3.6
   - apiVersion: v2
     appVersion: 3.3.5
-    created: "2024-06-10T14:30:47.655173748Z"
+    created: "2025-03-11T16:33:21.337960373Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2881,7 +2881,7 @@ entries:
     version: 3.3.5
   - apiVersion: v2
     appVersion: 3.3.4
-    created: "2024-06-10T14:30:47.650412887Z"
+    created: "2025-03-11T16:33:21.332119431Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2895,7 +2895,7 @@ entries:
     version: 3.3.4
   - apiVersion: v2
     appVersion: 3.3.3
-    created: "2024-06-10T14:30:47.646943485Z"
+    created: "2025-03-11T16:33:21.325814935Z"
     dependencies:
     - name: fluent-bit
       repository: https://fluent.github.io/helm-charts/
@@ -2909,7 +2909,7 @@ entries:
     version: 3.3.3
   - apiVersion: v2
     appVersion: 3.3.2
-    created: "2024-06-10T14:30:47.643409755Z"
+    created: "2025-03-11T16:33:21.320359566Z"
     description: A Helm chart for Kubernetes
     digest: b91c010e0f2e2caa909b151fdff9df3b5ea230f744f86ce8d2dfbf9de7a85d83
     name: oligo
@@ -2919,7 +2919,7 @@ entries:
     version: 3.3.2
   - apiVersion: v2
     appVersion: 3.3.1
-    created: "2024-06-10T14:30:47.640507181Z"
+    created: "2025-03-11T16:33:21.299571249Z"
     description: A Helm chart for Kubernetes
     digest: abae929c23a1dbdedd992a1411a783cb19396f32296f249516fd6879a8a2d03a
     name: oligo
@@ -2929,7 +2929,7 @@ entries:
     version: 3.3.1
   - apiVersion: v2
     appVersion: 3.3.0
-    created: "2024-06-10T14:30:47.635503903Z"
+    created: "2025-03-11T16:33:21.295591003Z"
     description: A Helm chart for Kubernetes
     digest: 2f8993407b203c700aa5a302e0dafabe6b0b273d57c21d25204da6a65abf4796
     name: oligo
@@ -2939,7 +2939,7 @@ entries:
     version: 3.3.0
   - apiVersion: v2
     appVersion: 3.2.8
-    created: "2024-06-10T14:30:47.63268966Z"
+    created: "2025-03-11T16:33:21.290650739Z"
     description: A Helm chart for Kubernetes
     digest: f7e51fa389727f77eaa5cbd77cf5616d7df85f2c2934d60f2767c100b571b780
     name: oligo
@@ -2949,7 +2949,7 @@ entries:
     version: 3.2.8
   - apiVersion: v2
     appVersion: 3.2.6
-    created: "2024-06-10T14:30:47.629175616Z"
+    created: "2025-03-11T16:33:21.287015076Z"
     description: A Helm chart for Kubernetes
     digest: 0e9e98f5b918f64f49c9b8d5765c627b7a9d035907d255a0b26f9faa32a26f0e
     name: oligo
@@ -2959,7 +2959,7 @@ entries:
     version: 3.2.6
   - apiVersion: v2
     appVersion: 3.2.5
-    created: "2024-06-10T14:30:47.626207498Z"
+    created: "2025-03-11T16:33:21.282240184Z"
     description: A Helm chart for Kubernetes
     digest: 79872ea0d8c3b5183130793cb85d82020e22673dbd38ea21e7308d73c4090142
     name: oligo
@@ -2969,7 +2969,7 @@ entries:
     version: 3.2.5
   - apiVersion: v2
     appVersion: 3.2.4
-    created: "2024-06-10T14:30:47.622026263Z"
+    created: "2025-03-11T16:33:21.276576493Z"
     description: A Helm chart for Kubernetes
     digest: 59886f50bdc24b93cd2bee0399318846b7bb5aea676af9c78fc5c1f6477c0d12
     name: oligo
@@ -2979,7 +2979,7 @@ entries:
     version: 3.2.4
   - apiVersion: v2
     appVersion: 3.2.3
-    created: "2024-06-10T14:30:47.61891859Z"
+    created: "2025-03-11T16:33:21.272445326Z"
     description: A Helm chart for Kubernetes
     digest: 57bf3beb8e8891bbeb0e738aa042124e86bd204242ee0f98ebcc0782487b56ea
     name: oligo
@@ -2989,7 +2989,7 @@ entries:
     version: 3.2.3
   - apiVersion: v2
     appVersion: 3.2.2
-    created: "2024-06-10T14:30:47.616241513Z"
+    created: "2025-03-11T16:33:21.267734963Z"
     description: A Helm chart for Kubernetes
     digest: 751e6a2b59bc52005f42e49e188fa2b2e3fe5b0df44792e8060fe07b712c769e
     name: oligo
@@ -2999,7 +2999,7 @@ entries:
     version: 3.2.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-10T14:30:47.613436413Z"
+    created: "2025-03-11T16:33:21.26397355Z"
     description: A Helm chart for Kubernetes
     digest: 7ef7021f318efe85f21b58a9480afab81fecde43b757f3366fa1d44e06be43e0
     name: oligo
@@ -3009,7 +3009,7 @@ entries:
     version: 3.2.1
   - apiVersion: v2
     appVersion: 3.1.1
-    created: "2024-06-10T14:30:47.609672088Z"
+    created: "2025-03-11T16:33:21.256784195Z"
     description: A Helm chart for Kubernetes
     digest: f068205d423fff56fe77e631f5b4804527155cad06d99f01fac44a135c709e1a
     name: oligo
@@ -3019,7 +3019,7 @@ entries:
     version: 3.1.1
   - apiVersion: v2
     appVersion: 3.1.0
-    created: "2024-06-10T14:30:47.607262902Z"
+    created: "2025-03-11T16:33:21.253529466Z"
     description: A Helm chart for Kubernetes
     digest: 2148288effde95aecc3dcfa490c3335791fba061d6d695d99163998e5c6a78b6
     name: oligo
@@ -3029,7 +3029,7 @@ entries:
     version: 3.1.0
   - apiVersion: v2
     appVersion: 3.0.1
-    created: "2024-06-10T14:30:47.604905125Z"
+    created: "2025-03-11T16:33:21.250969773Z"
     description: A Helm chart for Kubernetes
     digest: 3a045463aba40da856f519515a05a986be81bf7c8240e43a5f029cf3a8d70a30
     name: oligo
@@ -3039,7 +3039,7 @@ entries:
     version: 3.0.1
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2024-06-10T14:30:47.60230637Z"
+    created: "2025-03-11T16:33:21.248463251Z"
     description: A Helm chart for Kubernetes
     digest: f44726420f6591f100de64c9e5931a46b62c8f97f21aa0e60631b2d7b75ab112
     name: oligo
@@ -3049,7 +3049,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2024-06-10T14:30:47.599926312Z"
+    created: "2025-03-11T16:33:21.245941368Z"
     description: A Helm chart for Kubernetes
     digest: 935713fceb69f1afd9016af75fc9d5662373ace8890c1112cd7a2067f94ded1c
     name: oligo
@@ -3059,7 +3059,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2024-06-10T14:30:47.596828569Z"
+    created: "2025-03-11T16:33:21.243760118Z"
     description: A Helm chart for Kubernetes
     digest: c8886b3e91f88a2d4314a743766c6cc3fc2ff00df1548f6e2bbef0a8274478c7
     name: oligo
@@ -3069,7 +3069,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-10T14:30:47.593467948Z"
+    created: "2025-03-11T16:33:21.236876107Z"
     description: A Helm chart for Kubernetes
     digest: 77c469927a87911bdbf1623acd866e805d954f746bcf53ef26d2f6c993a8842a
     name: oligo
@@ -3079,7 +3079,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-10T14:30:47.590866942Z"
+    created: "2025-03-11T16:33:21.234096922Z"
     description: A Helm chart for Kubernetes
     digest: 085110a00b06606f30d06d5f06738e9553650c08384a1e79d9ae5ce6e20a34fd
     name: oligo
@@ -3089,7 +3089,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.0.333
-    created: "2024-06-10T14:30:47.585088379Z"
+    created: "2025-03-11T16:33:21.22831132Z"
     description: A Helm chart for Kubernetes
     digest: 83c9611844336c63b3657779b62211bab25e1e510e3af1e9335aefb5b8c1e6d3
     name: oligo
@@ -3099,7 +3099,7 @@ entries:
     version: 0.0.333
   - apiVersion: v2
     appVersion: 0.0.169
-    created: "2024-06-10T14:30:47.582294261Z"
+    created: "2025-03-11T16:33:21.225600885Z"
     description: A Helm chart for Kubernetes
     digest: dabcf6343400687847102e244a24da550715dfd7de9be77b5f3828b60a099092
     name: oligo
@@ -3109,7 +3109,7 @@ entries:
     version: 0.0.169
   - apiVersion: v2
     appVersion: 0.0.168
-    created: "2024-06-10T14:30:47.580240498Z"
+    created: "2025-03-11T16:33:21.220801182Z"
     description: A Helm chart for Kubernetes
     digest: e993ae5db19f38453cdc91ea07e35059c4a5122c18c1e080e47130c2215a5401
     name: oligo
@@ -3119,7 +3119,7 @@ entries:
     version: 0.0.168
   - apiVersion: v2
     appVersion: 0.0.167
-    created: "2024-06-10T14:30:47.578219477Z"
+    created: "2025-03-11T16:33:21.21494342Z"
     description: A Helm chart for Kubernetes
     digest: 26fdcbff54577a061d3c50e4fc58c86141b15c50b69b702154ab6a6c38077cfb
     name: oligo
@@ -3129,7 +3129,7 @@ entries:
     version: 0.0.167
   - apiVersion: v2
     appVersion: 0.0.166
-    created: "2024-06-10T14:30:47.576190845Z"
+    created: "2025-03-11T16:33:21.212625239Z"
     description: A Helm chart for Kubernetes
     digest: 8467ab0bf1e4b05ee65b4550c0acf7d4c6319fbe5c7b79a797fb7321076a7129
     name: oligo
@@ -3139,7 +3139,7 @@ entries:
     version: 0.0.166
   - apiVersion: v2
     appVersion: 0.0.164
-    created: "2024-06-10T14:30:47.574111926Z"
+    created: "2025-03-11T16:33:21.21050525Z"
     description: A Helm chart for Kubernetes
     digest: 8f75df1600918d4bf556939b12bafeff035eceea01179226cb4ebf16c73079e1
     name: oligo
@@ -3149,7 +3149,7 @@ entries:
     version: 0.0.164
   - apiVersion: v2
     appVersion: 0.0.163
-    created: "2024-06-10T14:30:47.57194318Z"
+    created: "2025-03-11T16:33:21.207053429Z"
     description: A Helm chart for Kubernetes
     digest: ac3572b6a589f54803d457d0e53f61749a97b1cf6dda3b11dc92f9bbcd4cca83
     name: oligo
@@ -3159,7 +3159,7 @@ entries:
     version: 0.0.163
   - apiVersion: v2
     appVersion: 0.0.162
-    created: "2024-06-10T14:30:47.569769025Z"
+    created: "2025-03-11T16:33:21.204662268Z"
     description: A Helm chart for Kubernetes
     digest: e82c247e6bfed9413dcd53736d453bacdcdf71c33fafd9eeaae34346bb36ef17
     name: oligo
@@ -3169,7 +3169,7 @@ entries:
     version: 0.0.162
   - apiVersion: v2
     appVersion: 0.0.161
-    created: "2024-06-10T14:30:47.566029819Z"
+    created: "2025-03-11T16:33:21.201705651Z"
     description: A Helm chart for Kubernetes
     digest: 600d0d2c2f2dd37892f2c29481556e6aa776c4b9b79ac9b24733f70f3952fde0
     name: oligo
@@ -3179,7 +3179,7 @@ entries:
     version: 0.0.161
   - apiVersion: v2
     appVersion: 0.0.160
-    created: "2024-06-10T14:30:47.563855957Z"
+    created: "2025-03-11T16:33:21.198153809Z"
     description: A Helm chart for Kubernetes
     digest: 54b0f5490d960d6202f50ea0c3c8cd8370a8a0248c14a6d40c37787ad886b638
     name: oligo
@@ -3189,7 +3189,7 @@ entries:
     version: 0.0.160
   - apiVersion: v2
     appVersion: 0.0.157
-    created: "2024-06-10T14:30:47.561855271Z"
+    created: "2025-03-11T16:33:21.194791859Z"
     description: A Helm chart for Kubernetes
     digest: 07d0d3bec87860005dc87ac58fb04818f19b4ee452257f054228520e1f09bb09
     name: oligo
@@ -3199,7 +3199,7 @@ entries:
     version: 0.0.157
   - apiVersion: v2
     appVersion: 0.0.156
-    created: "2024-06-10T14:30:47.559828901Z"
+    created: "2025-03-11T16:33:21.192441638Z"
     description: A Helm chart for Kubernetes
     digest: 456b9080adde9cedb6af20f4b4f041c1de50ebb9d68c4a5c910194503ca52fa6
     name: oligo
@@ -3209,7 +3209,7 @@ entries:
     version: 0.0.156
   - apiVersion: v2
     appVersion: 0.0.155
-    created: "2024-06-10T14:30:47.558022833Z"
+    created: "2025-03-11T16:33:21.190229328Z"
     description: A Helm chart for Kubernetes
     digest: fe33d9f5779bf5a7d92aea2b4ba5fc1af7d87a994823464bb11d6ac87e34c4bf
     name: oligo
@@ -3219,7 +3219,7 @@ entries:
     version: 0.0.155
   - apiVersion: v2
     appVersion: 0.0.154
-    created: "2024-06-10T14:30:47.555729002Z"
+    created: "2025-03-11T16:33:21.187325002Z"
     description: A Helm chart for Kubernetes
     digest: 6017f606d8d7fa2a5eb19885df681a23a980210deddba8d10822c79c419c15ec
     name: oligo
@@ -3229,7 +3229,7 @@ entries:
     version: 0.0.154
   - apiVersion: v2
     appVersion: 0.0.153
-    created: "2024-06-10T14:30:47.55357448Z"
+    created: "2025-03-11T16:33:21.185100312Z"
     description: A Helm chart for Kubernetes
     digest: 9c12da4374de3dd24924f23738a597daa2e99f27ec0a8184acab5543285d79a6
     name: oligo
@@ -3239,7 +3239,7 @@ entries:
     version: 0.0.153
   - apiVersion: v2
     appVersion: 0.0.152
-    created: "2024-06-10T14:30:47.551519706Z"
+    created: "2025-03-11T16:33:21.17928694Z"
     description: A Helm chart for Kubernetes
     digest: 48a00f0a738b2bae5f578ee95c918a824c66751bf44394eb7d5d3c6141d80896
     name: oligo
@@ -3249,7 +3249,7 @@ entries:
     version: 0.0.152
   - apiVersion: v2
     appVersion: 0.0.151
-    created: "2024-06-10T14:30:47.549122595Z"
+    created: "2025-03-11T16:33:21.175694328Z"
     description: A Helm chart for Kubernetes
     digest: f1aa20d4c9eea8bfcccc3a6c1f1f28ed34526efcbd7020449ff5000d9a4cbc39
     name: oligo
@@ -3259,7 +3259,7 @@ entries:
     version: 0.0.151
   - apiVersion: v2
     appVersion: 0.0.150
-    created: "2024-06-10T14:30:47.546457711Z"
+    created: "2025-03-11T16:33:21.172382098Z"
     description: A Helm chart for Kubernetes
     digest: 4667c9f9d64c5d643daed1725cd65eef7b2cb78ea46497af7e9eba2457bb7ece
     name: oligo
@@ -3269,7 +3269,7 @@ entries:
     version: 0.0.150
   - apiVersion: v2
     appVersion: 0.0.112
-    created: "2024-06-10T14:30:47.53990443Z"
+    created: "2025-03-11T16:33:21.165027592Z"
     description: A Helm chart for Kubernetes
     digest: 7738ab174a2a1502e4abd3cf532a559a15e5c1c387f52801b408139aa5f4440d
     name: oligo
@@ -3279,7 +3279,7 @@ entries:
     version: 0.0.112
   - apiVersion: v2
     appVersion: 0.0.111
-    created: "2024-06-10T14:30:47.538150867Z"
+    created: "2025-03-11T16:33:21.16259456Z"
     description: A Helm chart for Kubernetes
     digest: 7dc217f0e4703010d43c6e9fde4d6c3a1713b5839943b18d7af737847aec30b0
     name: oligo
@@ -3289,7 +3289,7 @@ entries:
     version: 0.0.111
   - apiVersion: v2
     appVersion: 0.0.100
-    created: "2024-06-10T14:30:47.53655814Z"
+    created: "2025-03-11T16:33:21.159837065Z"
     description: A Helm chart for Kubernetes
     digest: eee813d7f387bda0fa1329a787e0fd28950eed35f644230fbe2419f4e4062d3d
     name: oligo
@@ -3299,7 +3299,7 @@ entries:
     version: 0.0.100
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-10T14:30:47.588259214Z"
+    created: "2025-03-11T16:33:21.230945713Z"
     description: A Helm chart for Kubernetes
     digest: b6a1e1b94900bbd312af2c6c0098dee5326f4c8a0fa3a746df62423cc3e2c146
     name: oligo
@@ -3309,7 +3309,7 @@ entries:
     version: 0.0.55
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-10T14:30:47.542268685Z"
+    created: "2025-03-11T16:33:21.169376771Z"
     description: A Helm chart for Kubernetes
     digest: 03b1bd36d69257de0531625cacffc09bc1dc69e41e0c1d1bcd72e4b0827d8307
     name: oligo
@@ -3319,7 +3319,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-10T14:30:47.534012683Z"
+    created: "2025-03-11T16:33:21.157777357Z"
     dependencies:
     - condition: fluent-bit.enabled
       name: fluent-bit
@@ -3334,7 +3334,7 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2025-03-11T16:15:34.421910131Z"
+    created: "2025-03-11T16:33:21.152321168Z"
     description: A Helm chart for Kubernetes
     digest: f17debbc3c31c22dec07e945d1771394fed4e41a491ad96ddc24d9e9028051c1
     name: oligo
@@ -3344,38 +3344,8 @@ entries:
     version: 0.0.0
   oligo-operator:
   - apiVersion: v2
-    appVersion: 1.8.2
-    created: "2025-03-11T08:34:26.953990055Z"
-    description: A Helm chart for Kubernetes
-    digest: 4d1e3da4b168e69296fb8af633d8a2ca58010844b6795f2d0a1a078ad644c94b
-    name: oligo-operator
-    type: application
-    urls:
-    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-1.8.2.tgz
-    version: 1.8.2
-  - apiVersion: v2
-    appVersion: 1.8.1
-    created: "2025-03-09T10:17:46.264354605Z"
-    description: A Helm chart for Kubernetes
-    digest: efcb5d6718b6da3947192b59970b12a30abb5639651b8ba4b69f38995bfe758f
-    name: oligo-operator
-    type: application
-    urls:
-    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-1.8.1.tgz
-    version: 1.8.1
-  - apiVersion: v2
-    appVersion: 1.8.0
-    created: "2025-03-06T12:21:08.793452108Z"
-    description: A Helm chart for Kubernetes
-    digest: 56064f04e884128f7fecc069e1a27039624f686c6f42722a4e185b8b94f326d3
-    name: oligo-operator
-    type: application
-    urls:
-    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-1.8.0.tgz
-    version: 1.8.0
-  - apiVersion: v2
     appVersion: 1.7.1
-    created: "2025-03-05T12:04:18.432498049Z"
+    created: "2025-03-11T16:33:22.461489373Z"
     description: A Helm chart for Kubernetes
     digest: ccbc7edd22ae3d2b531a4a6a80cb264a1e43d50360e72baa251534672510b45e
     name: oligo-operator
@@ -3385,7 +3355,7 @@ entries:
     version: 1.7.1
   - apiVersion: v2
     appVersion: 1.7.0
-    created: "2024-11-26T13:47:36.724155818Z"
+    created: "2025-03-11T16:33:22.45994641Z"
     description: A Helm chart for Kubernetes
     digest: f3d99d17a6c350f042920f56e7496ad9b50940ce4bb458888a9333a1ca6c2cee
     name: oligo-operator
@@ -3395,7 +3365,7 @@ entries:
     version: 1.7.0
   - apiVersion: v2
     appVersion: 1.6.2
-    created: "2024-10-28T09:06:55.883392848Z"
+    created: "2025-03-11T16:33:22.456188236Z"
     description: A Helm chart for Kubernetes
     digest: 98303ce2ce1ee45e42c732375914b93cf13ae3487ac50be28053c12b798c103b
     name: oligo-operator
@@ -3405,7 +3375,7 @@ entries:
     version: 1.6.2
   - apiVersion: v2
     appVersion: 1.6.0
-    created: "2024-10-23T08:57:59.154323053Z"
+    created: "2025-03-11T16:33:22.454672642Z"
     description: A Helm chart for Kubernetes
     digest: 063497ba5d5d4458e3fe5aa811e7e6b1650337755c53d9322410a6a0e6f4ce0f
     name: oligo-operator
@@ -3415,7 +3385,7 @@ entries:
     version: 1.6.0
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-07-28T14:02:08.966542952Z"
+    created: "2025-03-11T16:33:22.453085668Z"
     description: A Helm chart for Kubernetes
     digest: ce200341bae42e30674cd2b5ac817b252c6a1f1b0ac0109edbcb55017c23e430
     name: oligo-operator
@@ -3425,7 +3395,7 @@ entries:
     version: 1.5.4
   - apiVersion: v2
     appVersion: 1.5.3
-    created: "2024-07-16T09:04:01.641550966Z"
+    created: "2025-03-11T16:33:22.451719956Z"
     description: A Helm chart for Kubernetes
     digest: 3257391973e1e46b154749e92a9289ccf3e87c0629cba9806fa160f4f44310e7
     name: oligo-operator
@@ -3435,7 +3405,7 @@ entries:
     version: 1.5.3
   - apiVersion: v2
     appVersion: 1.5.2
-    created: "2024-07-07T08:44:25.051401783Z"
+    created: "2025-03-11T16:33:22.450258493Z"
     description: A Helm chart for Kubernetes
     digest: 687fe008aeacedb65704366149ebf32250304a25fe891f6c63050f8423a21603
     name: oligo-operator
@@ -3445,7 +3415,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: 1.5.1
-    created: "2024-06-19T09:19:02.747688428Z"
+    created: "2025-03-11T16:33:22.44884379Z"
     description: A Helm chart for Kubernetes
     digest: 233920788464627c0aa23f7efe6419cf099e1a71cec631cfc87a608979e58050
     name: oligo-operator
@@ -3455,7 +3425,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2024-06-18T12:01:17.863582278Z"
+    created: "2025-03-11T16:33:22.447331886Z"
     description: A Helm chart for Kubernetes
     digest: bc007dee8c9306df5be7597303a319ab30a3a0fe948296591713e9d12894672e
     name: oligo-operator
@@ -3465,7 +3435,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.4
-    created: "2024-06-10T14:30:48.119164533Z"
+    created: "2025-03-11T16:33:22.445961754Z"
     description: A Helm chart for Kubernetes
     digest: 8682d28d314a4e7c1259ca3edc20b3f2f905f9e305da1ca656f9cf4e0e8eac3e
     name: oligo-operator
@@ -3475,7 +3445,7 @@ entries:
     version: 1.4.4
   - apiVersion: v2
     appVersion: 1.4.3
-    created: "2024-06-10T14:30:48.118354617Z"
+    created: "2025-03-11T16:33:22.444613032Z"
     description: A Helm chart for Kubernetes
     digest: f518c2f9a3c0578fc16ca7401604921b61ea3c1f9b1fd7f5a0bff60ee7b021c9
     name: oligo-operator
@@ -3485,7 +3455,7 @@ entries:
     version: 1.4.3
   - apiVersion: v2
     appVersion: 1.4.2
-    created: "2024-06-10T14:30:48.117061972Z"
+    created: "2025-03-11T16:33:22.443228449Z"
     description: A Helm chart for Kubernetes
     digest: a1ac5942aaaf27d7eb0bdaedefa1dd7b88d06174cb88ea5c8462618e6c5b8e9c
     name: oligo-operator
@@ -3495,7 +3465,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: 1.4.1
-    created: "2024-06-10T14:30:48.115265259Z"
+    created: "2025-03-11T16:33:22.441783767Z"
     description: A Helm chart for Kubernetes
     digest: eb9215c7bdd9e049504524c26a139bfe6fe0779e821c6ef07c6042ad4daaaf6d
     name: oligo-operator
@@ -3505,7 +3475,7 @@ entries:
     version: 1.4.1
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2024-06-10T14:30:48.113962476Z"
+    created: "2025-03-11T16:33:22.438563328Z"
     description: A Helm chart for Kubernetes
     digest: 07230ba4ce5fab1248a81e0b34bca01a9242d67bb0a58208524ffd02c59d6413
     name: oligo-operator
@@ -3515,7 +3485,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.3.3
-    created: "2024-06-10T14:30:48.113011868Z"
+    created: "2025-03-11T16:33:22.437371077Z"
     description: A Helm chart for Kubernetes
     digest: b239e3f449a2cb6e0c9f90bd7bf50a2a7216ee59661406d8a69566725d33506d
     name: oligo-operator
@@ -3525,7 +3495,7 @@ entries:
     version: 1.3.3
   - apiVersion: v2
     appVersion: 1.3.2
-    created: "2024-06-10T14:30:48.111671362Z"
+    created: "2025-03-11T16:33:22.436314078Z"
     description: A Helm chart for Kubernetes
     digest: f7f6b836de7d3667817d33e9589a7b4d4590eb92681d4eac43e9a94a23da0a89
     name: oligo-operator
@@ -3535,7 +3505,7 @@ entries:
     version: 1.3.2
   - apiVersion: v2
     appVersion: 1.3.1
-    created: "2024-06-10T14:30:48.11033214Z"
+    created: "2025-03-11T16:33:22.435238418Z"
     description: A Helm chart for Kubernetes
     digest: bceb1fc8520edcc641304569223591c82b29f2083fb053a2b76c6d96f86fd673
     name: oligo-operator
@@ -3545,7 +3515,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2024-06-10T14:30:48.108851241Z"
+    created: "2025-03-11T16:33:22.434186288Z"
     description: A Helm chart for Kubernetes
     digest: 5050c705239d680ee4155b75e2ee19deb3beda300101255de13b942a50ed23eb
     name: oligo-operator
@@ -3555,7 +3525,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2024-06-10T14:30:48.107490634Z"
+    created: "2025-03-11T16:33:22.433152699Z"
     description: A Helm chart for Kubernetes
     digest: 2244a2895d63d26e631afab20a67cdab499f81e7fe91c77bd0e5d8dbf9783ace
     name: oligo-operator
@@ -3565,7 +3535,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-06-10T14:30:48.10644391Z"
+    created: "2025-03-11T16:33:22.43210584Z"
     description: A Helm chart for Kubernetes
     digest: 51b75bd71c9557a72a8177741f500b1063bfb65096dc63c19e0f3acd04fd2398
     name: oligo-operator
@@ -3575,7 +3545,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2024-06-10T14:30:48.105351669Z"
+    created: "2025-03-11T16:33:22.431124121Z"
     description: A Helm chart for Kubernetes
     digest: 4b3d3543fd613d8d1c528d8c333a357672a1f427eeb82606f54406aff8f3093f
     name: oligo-operator
@@ -3585,7 +3555,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2024-06-10T14:30:48.104242634Z"
+    created: "2025-03-11T16:33:22.42993772Z"
     description: A Helm chart for Kubernetes
     digest: 9babbedb10bb3222f549378a72ac0b0cdcb18a30e1386138beae096924b67850
     name: oligo-operator
@@ -3595,7 +3565,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-06-10T14:30:48.103148945Z"
+    created: "2025-03-11T16:33:22.4276467Z"
     description: A Helm chart for Kubernetes
     digest: 85b535fdfd6f2262bbc61ba8d951979a5441af050b70060c5f168dc138a890ad
     name: oligo-operator
@@ -3605,7 +3575,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2024-06-10T14:30:48.101880568Z"
+    created: "2025-03-11T16:33:22.426321358Z"
     description: A Helm chart for Kubernetes
     digest: f5352a5a77cfa2c2ff33b11a73567ff88077492ff6c615a3c9f54c0c4b5809fa
     name: oligo-operator
@@ -3615,7 +3585,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2024-06-10T14:30:48.100317145Z"
+    created: "2025-03-11T16:33:22.42550139Z"
     description: A Helm chart for Kubernetes
     digest: e4ccaa1417345b25ec53989d34c5eda53d9d48ca21bc519097f5038eac5d8c75
     name: oligo-operator
@@ -3625,7 +3595,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-06-10T14:30:48.098281309Z"
+    created: "2025-03-11T16:33:22.424482561Z"
     description: A Helm chart for Kubernetes
     digest: 1aa26eca263839d240865b447b7b5e1a9447dafd7100e3a606eeb7e6c63ca7ea
     name: oligo-operator
@@ -3635,7 +3605,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2024-06-10T14:30:48.097238372Z"
+    created: "2025-03-11T16:33:22.423652304Z"
     description: A Helm chart for Kubernetes
     digest: abdb08d9f2479dfb201192a1c71b7a1270c1a5840827117080544a16050536a6
     name: oligo-operator
@@ -3645,7 +3615,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2024-06-10T14:30:48.096203063Z"
+    created: "2025-03-11T16:33:22.422378932Z"
     description: A Helm chart for Kubernetes
     digest: 7a442b5fdee506bb1721814096d4e1ba9b4262690a5440a563e11ff058412ea7
     name: oligo-operator
@@ -3655,7 +3625,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2024-06-10T14:30:48.095073231Z"
+    created: "2025-03-11T16:33:22.41988172Z"
     description: A Helm chart for Kubernetes
     digest: 10f5853268b7cf2b92f1d8e752b2d4e95c88853a5a84fa216ee76dc9856a3c62
     name: oligo-operator
@@ -3665,7 +3635,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-06-10T14:30:48.09398804Z"
+    created: "2025-03-11T16:33:22.419190774Z"
     description: A Helm chart for Kubernetes
     digest: 10dba6e270cbaa18243f761928df60d8d770ef047b30d5fddc71b80b3db66d3b
     name: oligo-operator
@@ -3675,7 +3645,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-06-10T14:30:48.09294346Z"
+    created: "2025-03-11T16:33:22.418512838Z"
     description: A Helm chart for Kubernetes
     digest: 6ccb44997bc5b39ef5b8681f430ff96f521cbbcab93f5a7d57dcb663e7a51507
     name: oligo-operator
@@ -3685,7 +3655,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-10T14:30:48.091913235Z"
+    created: "2025-03-11T16:33:22.417900542Z"
     description: A Helm chart for Kubernetes
     digest: 44b4b7378bccdb404eaa3ca9595c57035ba8d791bf4f0827e1f31a3dbc036462
     name: oligo-operator
@@ -3695,7 +3665,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2025-03-11T16:15:38.843685685Z"
+    created: "2025-03-11T16:33:22.416971024Z"
     description: A Helm chart for Kubernetes
     digest: a8f85c7f851fee4725cfaf96355b274652db5b6c623f020a08b82a265dfd4e10
     name: oligo-operator
@@ -3703,4 +3673,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-03-11T16:15:38.842004671Z"
+generated: "2025-03-11T16:33:21.147459424Z"
