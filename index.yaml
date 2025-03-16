@@ -392,6 +392,16 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.14.0-experimental-prevention0.tgz
     version: 5.14.0-experimental-prevention0
   - apiVersion: v2
+    appVersion: 5.13.3
+    created: "2025-03-16T13:43:04.177867733Z"
+    description: A Helm chart for Kubernetes
+    digest: eb0514dab37337993a0779117f0bbf13ec424027fd864c8b73c00d37b2035b80
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.13.3.tgz
+    version: 5.13.3
+  - apiVersion: v2
     appVersion: 5.13.2
     created: "2025-03-11T16:33:21.968773933Z"
     description: A Helm chart for Kubernetes
@@ -3683,4 +3693,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-03-16T13:24:59.647689121Z"
+generated: "2025-03-16T13:43:04.176015759Z"
