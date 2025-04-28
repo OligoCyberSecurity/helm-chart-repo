@@ -72,6 +72,16 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.17.3-experimental-program-events.tgz
     version: 5.17.3-experimental-program-events
   - apiVersion: v2
+    appVersion: 5.17.2
+    created: "2025-04-28T14:39:22.207663202Z"
+    description: A Helm chart for Kubernetes
+    digest: ae8952e70cd97e14afb2d2c60bd1e62360a0a43ec569befe7eadf45a5586fc52
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.17.2.tgz
+    version: 5.17.2
+  - apiVersion: v2
     appVersion: 5.17.2-experimental-program-events-delete-test-with-log
     created: "2025-03-11T16:33:22.091178171Z"
     description: A Helm chart for Kubernetes
@@ -3903,4 +3913,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-04-28T14:32:23.690427361Z"
+generated: "2025-04-28T14:39:22.205904645Z"
