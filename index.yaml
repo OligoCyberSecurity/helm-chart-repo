@@ -1,5 +1,17 @@
 apiVersion: v1
 entries:
+  govcloud:
+  - apiVersion: v2
+    appVersion: govcloud-0.0.1-fips
+    created: "2025-08-10T13:31:03.70598809Z"
+    description: A Helm chart for deploying the Oligo Security platform with Sensor,
+      Scanner, and Collector components
+    digest: 5332da53e266ba517917fe2808e8b695390ea896fbd0eedbd772b5cc534c4c83
+    name: govcloud
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/govcloud-0.0.1.tgz
+    version: 0.0.1
   oligo:
   - apiVersion: v2
     appVersion: 5.21.99-experimental-java-perf-improvements-2
@@ -4261,4 +4273,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-08-10T12:44:28.660206483Z"
+generated: "2025-08-10T13:31:03.703801222Z"
