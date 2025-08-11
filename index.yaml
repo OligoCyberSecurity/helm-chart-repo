@@ -36,6 +36,17 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.21.99-experimental-java-perf-improvements.tgz
     version: 5.21.99-experimental-java-perf-improvements
   - apiVersion: v2
+    appVersion: 5.21.0-rc5
+    created: "2025-08-11T17:00:23.380232854Z"
+    description: A Helm chart for deploying the Oligo Security platform with Sensor,
+      Scanner, and Collector components
+    digest: 0dda002e73fccb58555bcc55b015bee587d07863a469afce56a9d82d8c8c445c
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.21.0-rc5.tgz
+    version: 5.21.0-rc5
+  - apiVersion: v2
     appVersion: 5.21.0-rc4
     created: "2025-08-10T12:44:28.66254179Z"
     description: A Helm chart for deploying the Oligo Security platform with Sensor,
@@ -4273,4 +4284,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-08-11T16:27:24.222698805Z"
+generated: "2025-08-11T17:00:23.378110584Z"
