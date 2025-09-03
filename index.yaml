@@ -3960,10 +3960,10 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2025-09-03T14:37:07.389771443Z"
+    created: "2025-09-03T17:15:47.569603223Z"
     description: A Helm chart for deploying the Oligo Security platform with Sensor,
       Scanner, and Collector components
-    digest: e20fbeef66e1ab95447b14f4735792ce0bc269928d30861f4e2964680bc54643
+    digest: 340ad70e49e3e07d87311076670d37200402b8aa3693fcd12252da2dc9fdf0b0
     name: oligo
     type: application
     urls:
@@ -4360,4 +4360,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-09-03T14:37:12.693908388Z"
+generated: "2025-09-03T17:15:47.566492992Z"
