@@ -3,10 +3,10 @@ entries:
   govcloud:
   - apiVersion: v2
     appVersion: govcloud-1.0.0-scratch
-    created: "2025-09-11T08:31:38.271293008Z"
+    created: "2025-09-14T11:01:47.519945784Z"
     description: A Helm chart for deploying the Oligo Security platform with Sensor,
       Scanner, and Collector components
-    digest: 9e8c12857f2eb5e59b97bced64d80092e68dd12be8b146b044b54b7b87b6ebe3
+    digest: 37308dfa6ecec6b41cceedd7fb518106128afddb9d3d9fae474c0c1d20d69b09
     name: govcloud
     type: application
     urls:
@@ -4414,4 +4414,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-09-14T10:39:25.862060144Z"
+generated: "2025-09-14T11:01:47.517722434Z"
