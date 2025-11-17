@@ -75,6 +75,16 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.22.99-experimental-container-id-logs.tgz
     version: 5.22.99-experimental-container-id-logs
   - apiVersion: v2
+    appVersion: 5.22.0
+    created: "2025-11-17T14:22:57.768423105Z"
+    description: Standalone Deployment (Operatorless)
+    digest: df46c37dd98838e70ccc37d5aaac539e28b508520591e251f42270020395bc4f
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.22.0.tgz
+    version: 5.22.0
+  - apiVersion: v2
     appVersion: 5.22.0-rc4
     created: "2025-11-09T17:40:31.059626647Z"
     description: Standalone Deployment (Operatorless)
@@ -4607,4 +4617,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-11-17T07:51:07.850073296Z"
+generated: "2025-11-17T14:22:57.766542723Z"
