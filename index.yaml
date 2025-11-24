@@ -35,6 +35,16 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.23.0-rc0.tgz
     version: 5.23.0-rc0
   - apiVersion: v2
+    appVersion: 5.22.199-experimental-perf-link-error-handling
+    created: "2025-11-24T14:50:43.928206788Z"
+    description: Standalone Deployment (Operatorless)
+    digest: 50618b2da552b4d15c5eafe6b5785e129c9d6b2ae80a6b85ba8f7a689de7f02a
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.22.199-experimental-perf-link-error-handling.tgz
+    version: 5.22.199-experimental-perf-link-error-handling
+  - apiVersion: v2
     appVersion: 5.22.99-experimental-program-registry-no-unique
     created: "2025-10-26T14:44:03.092431624Z"
     description: Standalone Deployment (Operatorless)
@@ -4637,4 +4647,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2025-11-24T14:50:08.774262591Z"
+generated: "2025-11-24T14:50:43.92606914Z"
