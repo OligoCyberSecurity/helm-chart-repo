@@ -4879,12 +4879,12 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2026-03-03T15:10:16.946523887Z"
+    created: "2026-03-03T15:47:07.453871382Z"
     description: Operator Deployment
-    digest: 6cdb015bc2feeddafcd48382cc3b866aaf4b775473e340f8558b8cdc82f339a0
+    digest: 8b59349d33416fbd4171cd64d54c395993e7cdf16956b135eeab21e4f9586a12
     name: oligo-operator
     type: application
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2026-03-03T15:47:01.160938885Z"
+generated: "2026-03-03T15:47:07.452789408Z"
