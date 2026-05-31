@@ -35,6 +35,16 @@ entries:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.28.0-rc0.tgz
     version: 5.28.0-rc0
   - apiVersion: v2
+    appVersion: 5.28-experimental-java-procmaps
+    created: "2026-05-31T17:39:46.046978165Z"
+    description: Standalone Deployment (Operatorless)
+    digest: 984596c503b6339881b539385b3fa9bf711d1cf8cbcff11c250b974817332634
+    name: oligo
+    type: application
+    urls:
+    - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-5.28-experimental-java-procmaps.tgz
+    version: 5.28-experimental-java-procmaps
+  - apiVersion: v2
     appVersion: 5.27.0
     created: "2026-05-25T14:48:09.848660463Z"
     description: Standalone Deployment (Operatorless)
@@ -5147,4 +5157,4 @@ entries:
     urls:
     - https://oligocybersecurity.github.io/helm-chart-repo/helm-chart-sources/oligo-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2026-05-31T07:40:07.413234634Z"
+generated: "2026-05-31T17:39:46.043968773Z"
